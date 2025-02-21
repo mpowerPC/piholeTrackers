@@ -1,0 +1,47 @@
+
+[
+  {
+    "type": "tracker",
+    "domain": "https://v.firebog.net/hosts/Easyprivacy.txt"
+  },
+  {
+    "type": "tracker",
+    "domain": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
+  },
+  {
+    "type": "tracker",
+    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows"
+  },
+  {
+    "type": "tracker",
+    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple"
+  },
+  {
+    "type": "tracker",
+    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung"
+  },
+  {
+    "type": "tracker",
+    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei"
+  },
+  {
+    "type": "tracker",
+    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi"
+  },
+  {
+    "type": "tracker",
+    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos"
+  },
+  {
+    "type": "tracker",
+    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa"
+  },
+  {
+    "type": "tracker",
+    "domain": "https://raw.githubusercontent.com/mpowerPC/piholeTrackers/refs/heads/main/list.txt"
+  },
+  {
+    "type": "tracker",
+    "domain": "https://easylist.to/easylist/easyprivacy.txt"
+  }
+]
