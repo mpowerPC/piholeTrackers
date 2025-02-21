@@ -1,47 +1,302 @@
-
 [
-  {
-    "type": "tracker",
-    "domain": "https://v.firebog.net/hosts/Easyprivacy.txt"
-  },
-  {
-    "type": "tracker",
-    "domain": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
-  },
-  {
-    "type": "tracker",
-    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows"
-  },
-  {
-    "type": "tracker",
-    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple"
-  },
-  {
-    "type": "tracker",
-    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung"
-  },
-  {
-    "type": "tracker",
-    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei"
-  },
-  {
-    "type": "tracker",
-    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi"
-  },
-  {
-    "type": "tracker",
-    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos"
-  },
-  {
-    "type": "tracker",
-    "domain": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa"
-  },
-  {
-    "type": "tracker",
-    "domain": "https://raw.githubusercontent.com/mpowerPC/piholeTrackers/refs/heads/main/list.txt"
-  },
-  {
-    "type": "tracker",
-    "domain": "https://easylist.to/easylist/easyprivacy.txt"
-  }
+    {
+        "type": "malicious",
+        "domain": "https://github.com/blocklistproject/Lists/raw/refs/heads/master/abuse.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/facebook.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/youtube.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/smart-tv.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/ads.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Spotify-AdBlock.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-YouTube-AdBlock.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://github.com/jerryn70/GoodbyeAds/raw/refs/heads/master/Hosts/GoodbyeAds.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Samsung-AdBlock.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Xiaomi-Extension.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/0Zinc/easylist.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/adaway/hosts.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/blocklistproject/hosts.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/blocklistproject/youtube.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/craiu/mobiletrackers.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/crazy-max/spy.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/DandelionSprout.GameConsoleAdblockList.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/disconnectme/simple-ad.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/FadeMind/UncheckyAds.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/AdguardDNS.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/Admiral.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/Easylist.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/Prigent-Ads.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/MajkiIT/SmartTV-ads.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/r-a-y/AdguardMobileAds.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/sefinek.hosts.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/ShadowWhisperer/Ads.fork.txt"
+    },
+    {
+        "type": "ads",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/yoyo/ads-trackers-etc.fork.txt"
+    },
+    {
+        "type": "other",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/hate-and-junk/developerdan/extended.fork.txt"
+    },
+    {
+        "type": "other",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/hate-and-junk/sefinek.hosts.txt"
+    },
+    {
+        "type": "other",
+        "domain": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts"
+    },
+    {
+        "type": "other",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/fakenews/marktron/hosts.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://github.com/blocklistproject/Lists/raw/refs/heads/master/fraud.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/malware.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/raw/main/hostslists/firebogmal.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://github.com/davidonzo/Threat-Intel/raw/refs/heads/master/lists/latestdomains.piHole.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/phishing.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://github.com/Dogino/Discord-Phishing-URLs/raw/refs/heads/main/pihole-phishing-adlist.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/redirect.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/scam.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/refs/heads/main/scam-urls.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://github.com/blocklistproject/Lists/raw/refs/heads/master/abuse.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/refs/heads/main/lists/wildcard_domains/scams.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/scam/sefinek.hosts.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/raw/main/hostslists/firebogsus.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/esport.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/crypto/cryptojacking/firebog/Prigent/Crypto.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/crypto/cryptojacking/hoshsadiq/adblock-nocoin-list.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/crypto/cryptojacking/Snota418/Crypto-streams.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/malicious/phishing.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/blocklistproject/phishing.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/Dogino/Discord-Phishing-URLs-phishing.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/phishing.army/blocklist-extended.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/RPiList/Phishing-Angriffe.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/spam/RPiList/spam-mails.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/spam/stopforumspam/toxic-domains-whole.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/spam/FadeMind/add-Spam.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/suspicious/FadeMind/add-Risk.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/suspicious/firebog/w3kbl.fork.txt"
+    },
+    {
+        "type": "malicious",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/suspicious/sefinek.hosts.txt"
+    },
+    {
+        "type": "redirect",
+        "domain": "https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/redirect.txt"
+    },
+    {
+        "type": "tracker",
+        "domain": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
+    },
+    {
+        "type": "tracker",
+        "domain": "https://raw.githubusercontent.com/craiu/mobiletrackers/refs/heads/master/list.txt"
+    },
+    {
+        "type": "tracker",
+        "domain": "https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/tracking.txt"
+    },
+    {
+        "type": "tracker",
+        "domain": "https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/raw/main/hostslists/firebogtrack.txt"
+    },
+    {
+        "type": "tracker",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt"
+    },
+    {
+        "type": "tracker",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt"
+    },
+    {
+        "type": "tracker",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt"
+    },
+    {
+        "type": "tracker",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/mitchellkrogza/INACTIVE.fork.txt"
+    },
+    {
+        "type": "tracker",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/neodevpro/host.fork.txt"
+    },
+    {
+        "type": "tracker",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/quidsup/trackers-hosts.fork.txt"
+    },
+    {
+        "type": "tracker",
+        "domain": "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/sefinek.hosts.txt"
+    }
 ]
