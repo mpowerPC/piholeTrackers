@@ -170,5 +170,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# protected files
+.env
+
 # jetbrains
 .idea/
