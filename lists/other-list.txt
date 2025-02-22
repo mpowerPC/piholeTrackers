@@ -1,6 +1,6 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-02-22 17:51:00 UTC
+# last updated on 2025-02-22 17:56:37 UTC
 # entries: 9305
 # additions: 0
 # removals: 0
