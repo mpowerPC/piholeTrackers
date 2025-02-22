@@ -2,23 +2,23 @@ import json
 import os
 import re
 from datetime import datetime, timezone
-
 import requests
-from dotenv import load_dotenv
 
-# Load .env file
-load_dotenv()
-
-# Get environment variables
-api_key = os.getenv('PI_HOLE_API')
-
-# Print environment variables
-print(f'PI_HOLE_API: {api_key}')
 
 def read_trackers():
     with open('trackers.json', 'r', encoding='utf8') as file:
         trackers = json.load(file)
     return trackers
+
+def read_existing_domains(file_path):
+    existing_domains = []
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf8') as file:
+            for line in file:
+                line = line.strip()
+                if line and not line.startswith('#'):
+                    existing_domains.append(line.split()[1])
+    return set(existing_domains)
 
 def read_domains(file_content):
     ip_pattern = re.compile(r'^\d{1,3}(?:\.\d{1,3}){3}\s+')
@@ -40,8 +40,6 @@ def read_domains(file_content):
 
         if re.search(r'^(((?!-))(xn--|_)?[a-z0-9-]{0,61}[a-z0-9]{1,1}\.)*(xn--)?([a-z0-9][a-z0-9\-]{0,60}|[a-z0-9-]{1,30}\.[a-z]{2,})$', domain):
             domains.append(domain)
-
-        domains.append(domain)
 
     return domains
 
@@ -71,7 +69,6 @@ def fetch_and_process_trackers(trackers):
     domain_tracker_map = {}
 
     for domain_type in priority:
-        print(f'Fetching {domain_type} trackers')
         if domain_type in all_domains_by_type:
             for domain in all_domains_by_type[domain_type]:
                 if domain not in domain_tracker_map:
@@ -80,27 +77,35 @@ def fetch_and_process_trackers(trackers):
                         prioritized_domains[domain_type] = []
                     prioritized_domains[domain_type].append(domain)
 
+    for tracker_type, domains in prioritized_domains.items():
+        prioritized_domains[tracker_type] = set(domains)
+
     return prioritized_domains
 
-
 def save_domains_to_files(domains_by_type):
-
     for tracker_type, domains in domains_by_type.items():
         file_path = os.path.join('lists', f'{tracker_type}-list.txt')
+        existing_domains = read_existing_domains(file_path)
+        new_domains = list(domains - existing_domains)
+        removed_domains = list(existing_domains - domains)
+
         with open(file_path, 'w', encoding='utf8') as file:
             file.write(f'# Blocklist for {tracker_type} hosts\n')
             file.write(f'# ----\n')
             file.write(f'# last updated on {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")} UTC\n')
             file.write(f'# entries: {len(domains)}\n')
+            file.write(f'# additions: {len(new_domains)}\n')
+            file.write(f'# removals: {len(removed_domains)}\n')
             file.write(f'#\n')
             for domain in domains:
                 file.write(f'0.0.0.0 {domain}\n')
 
         print(f'saved domains to files: {file_path}')
 
-# Load trackers
-trackers = read_trackers()
-# Fetch and process domains by type
-all_domains_by_type = fetch_and_process_trackers(trackers)
-# Save domains to files
-save_domains_to_files(all_domains_by_type)
+def update_lists():
+    trackers = read_trackers()
+    all_domains_by_type = fetch_and_process_trackers(trackers)
+    save_domains_to_files(all_domains_by_type)
+
+if __name__ == '__main__':
+    update_lists()
