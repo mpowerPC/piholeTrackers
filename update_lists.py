@@ -88,21 +88,20 @@ def save_domains_to_files(domains_by_type):
         existing_domains = read_existing_domains(file_path)
         new_domains = list(domains - existing_domains)
         removed_domains = list(existing_domains - domains)
-
         domains = sorted(list(domains))
+        if removed_domains or new_domains:
+            with open(file_path, 'w', encoding='utf8') as file:
+                file.write(f'# Blocklist for {tracker_type} hosts\n')
+                file.write(f'# ----\n')
+                file.write(f'# last updated on {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")} UTC\n')
+                file.write(f'# entries: {len(domains)}\n')
+                file.write(f'# additions: {len(new_domains)}\n')
+                file.write(f'# removals: {len(removed_domains)}\n')
+                file.write(f'#\n')
+                for domain in domains:
+                    file.write(f'0.0.0.0 {domain}\n')
 
-        with open(file_path, 'w', encoding='utf8') as file:
-            file.write(f'# Blocklist for {tracker_type} hosts\n')
-            file.write(f'# ----\n')
-            file.write(f'# last updated on {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")} UTC\n')
-            file.write(f'# entries: {len(domains)}\n')
-            file.write(f'# additions: {len(new_domains)}\n')
-            file.write(f'# removals: {len(removed_domains)}\n')
-            file.write(f'#\n')
-            for domain in domains:
-                file.write(f'0.0.0.0 {domain}\n')
-
-        print(f'saved domains to files: {file_path}')
+            print(f'saved domains to files: {file_path}')
 
 def update_lists():
     trackers = read_trackers()
