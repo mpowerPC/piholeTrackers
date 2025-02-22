@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python update_lists.py
+python3 update_lists.py
 
 git pull
 
