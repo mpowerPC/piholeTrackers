@@ -1,6 +1,8 @@
 #!/bin/bash
 
-git remote set-url origin https://mpowerPC:$GITHUB_TOKEN@github.com/mpowerPC/piholeTrackers.git
+git config --global user.email $EMAIL
+
+git remote set-url origin https://$GITHUB_USER:$GITHUB_TOKEN@github.com/mpowerPC/piholeTrackers.git
 
 git pull origin main
 
