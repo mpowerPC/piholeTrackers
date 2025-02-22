@@ -89,6 +89,8 @@ def save_domains_to_files(domains_by_type):
         new_domains = list(domains - existing_domains)
         removed_domains = list(existing_domains - domains)
 
+        domains = sorted(list(domains))
+
         with open(file_path, 'w', encoding='utf8') as file:
             file.write(f'# Blocklist for {tracker_type} hosts\n')
             file.write(f'# ----\n')
