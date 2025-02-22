@@ -1,6 +1,8 @@
 #!/bin/bash
 
-git pull
+git remote set-url origin https://mpowerPC:$GITHUB_TOKEN@github.com/mpowerPC/piholeTrackers.git
+
+git pull origin main
 
 python3 update_lists.py
 
