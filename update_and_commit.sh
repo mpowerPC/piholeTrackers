@@ -4,6 +4,8 @@ git config --global user.email $EMAIL
 
 git remote set-url origin https://$GITHUB_USER:$GITHUB_TOKEN@github.com/mpowerPC/piholeTrackers.git
 
+gir reset --hard origin/main
+
 git pull origin main
 
 python3 update_lists.py
