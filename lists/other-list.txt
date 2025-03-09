@@ -1,9 +1,9 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-02-22 17:56:37 UTC
-# entries: 9305
-# additions: 0
-# removals: 0
+# last updated on 2025-03-09 08:01:47 UTC
+# entries: 9315
+# additions: 11
+# removals: 1
 #
 0.0.0.0 05racismo.blogspot.cl
 0.0.0.0 05racismo.blogspot.com.es
@@ -243,7 +243,6 @@
 0.0.0.0 amnazin.com
 0.0.0.0 amren.com
 0.0.0.0 analytics-cpcalendars.niggermania.co
-0.0.0.0 analytics.naturalnews.com
 0.0.0.0 anarchismcumfascism.com
 0.0.0.0 anasnazir.com
 0.0.0.0 anatashkenazi.com
@@ -347,6 +346,7 @@
 0.0.0.0 antifascismai.com
 0.0.0.0 antifascisme.nl
 0.0.0.0 antifascismo-queer.blogspot.com.es
+0.0.0.0 antiislam.cz
 0.0.0.0 antiislam.de
 0.0.0.0 antiislam.nl
 0.0.0.0 antiislam2000.blogspot.com.es
@@ -2666,6 +2666,7 @@
 0.0.0.0 gymnazia.in
 0.0.0.0 gymnazia.uk
 0.0.0.0 gymnaziainteraktivne.cz
+0.0.0.0 gymnazial.cz
 0.0.0.0 gymnazio.co.uk
 0.0.0.0 gymnazion.pl
 0.0.0.0 gymnazista.cz
@@ -3230,6 +3231,7 @@
 0.0.0.0 janazichova.cz
 0.0.0.0 janaziegler.de
 0.0.0.0 janazier.nl
+0.0.0.0 janazika.cz
 0.0.0.0 janazikova.cz
 0.0.0.0 janazimcikova.cz
 0.0.0.0 janazimova.cz
@@ -4269,6 +4271,7 @@
 0.0.0.0 martinaziehl.norwex.de
 0.0.0.0 martinaziehlmitpamperedchef.de
 0.0.0.0 martinazier.de
+0.0.0.0 martinazije.cz
 0.0.0.0 martinazilkova.cz
 0.0.0.0 martinazimmer.de
 0.0.0.0 martinazimmermann.blogspot.fr
@@ -5074,6 +5077,7 @@
 0.0.0.0 nazionobrera.blogspot.com.es
 0.0.0.0 nazionobrera.blogspot.de
 0.0.0.0 naziornot.co.uk
+0.0.0.0 nazip.cz
 0.0.0.0 nazipaikidze.com
 0.0.0.0 naziparty.us
 0.0.0.0 nazipasi.co.za
@@ -5157,6 +5161,7 @@
 0.0.0.0 nazirjain.top
 0.0.0.0 nazirkhan.com
 0.0.0.0 nazirkhan.nl
+0.0.0.0 nazirkzoo.cz
 0.0.0.0 nazirmaiwand.de
 0.0.0.0 nazirmd.produktyfinansowe.pl
 0.0.0.0 nazirmd.systempartnerski.pl
@@ -5288,6 +5293,7 @@
 0.0.0.0 nazivote.cz
 0.0.0.0 nazivotsrozumem.cz
 0.0.0.0 nazivovodafonelive.cz
+0.0.0.0 nazivu.cz
 0.0.0.0 nazivyplot.cz
 0.0.0.0 naziwa.net
 0.0.0.0 naziwatch.de
@@ -5802,6 +5808,7 @@
 0.0.0.0 personalitytest.scientology.org
 0.0.0.0 pertsonagorrennazioartekoeguna.blogspot.com.es
 0.0.0.0 petition.projectveritas.com
+0.0.0.0 petpenazi.cz
 0.0.0.0 petsnmorepinellas.comwww.scientologynews.org
 0.0.0.0 pf3618.bloodandsoil.org
 0.0.0.0 pgotowgotownazi.pro
@@ -6447,6 +6454,7 @@
 0.0.0.0 sestiletegymnazium.cz
 0.0.0.0 settorenazionale.com
 0.0.0.0 sexnazi.com
+0.0.0.0 sexnazivo.cz
 0.0.0.0 sextremism2.blogspot.com.au
 0.0.0.0 sextremism2.blogspot.de
 0.0.0.0 seyhnazim.com
@@ -6957,6 +6965,7 @@
 0.0.0.0 talkaboutracism.org
 0.0.0.0 talkingaboutextremisminschools.wp.st-andrews.ac.uk
 0.0.0.0 talkracism.com
+0.0.0.0 tanazip.cz
 0.0.0.0 tannazie.blogspot.ca
 0.0.0.0 tannazie.blogspot.de
 0.0.0.0 tapnewswire.com
@@ -9306,6 +9315,7 @@
 0.0.0.0 zoologieprogymnazia.cz
 0.0.0.0 zoomnazielen.altereko.pl
 0.0.0.0 zs-gymnazium.cz
+0.0.0.0 zsnazivo.cz
 0.0.0.0 zusammen-gegen-antisemitismus.de
 0.0.0.0 zuzanazieglerova.cz
 0.0.0.0 zw-schoener-ohne-nazis.blog.de
