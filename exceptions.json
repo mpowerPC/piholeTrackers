@@ -2,5 +2,9 @@
     {
         "type": "host",
         "domain": "thepiratebay.org"
+    },
+        {
+        "type": "host",
+        "domain": "fpt.live.com"
     }
 ]
