@@ -10,6 +10,11 @@ def read_trackers():
         trackers = json.load(file)
     return trackers
 
+def read_exceptions():
+    with open('exceptions.json', 'r', encoding='utf8') as file:
+        exceptions = json.load(file)
+    return exceptions
+
 def read_existing_domains(file_path):
     existing_domains = []
     if os.path.exists(file_path):
@@ -20,7 +25,7 @@ def read_existing_domains(file_path):
                     existing_domains.append(line.split()[1])
     return set(existing_domains)
 
-def read_domains(file_content):
+def read_domains(file_content, regex_exceptions, host_exceptions):
     ip_pattern = re.compile(r'^\d{1,3}(?:\.\d{1,3}){3}\s+')
     comment_pattern = re.compile(r'\s*#.*')
     domains = []
@@ -38,14 +43,35 @@ def read_domains(file_content):
         if not domain:
             continue
 
+        if domain_exceptions(domain, regex_exceptions, host_exceptions):
+            continue
+
         if re.search(r'^(((?!-))(xn--|_)?[a-z0-9-]{0,61}[a-z0-9]{1,1}\.)*(xn--)?([a-z0-9][a-z0-9\-]{0,60}|[a-z0-9-]{1,30}\.[a-z]{2,})$', domain):
             domains.append(domain)
 
     return domains
 
+def domain_exceptions(domain, regex_exceptions, host_exceptions):
+    for exception in host_exceptions:
+        if domain == exception:
+            return True
 
-def fetch_and_process_trackers(trackers):
+    for exception in regex_exceptions:
+        if re.search(exception, domain):
+            return True
+
+    return False
+
+def fetch_and_process_trackers(trackers, exceptions):
     priority = ['malicious', 'tracker', 'ads', 'other']
+
+    regex_exceptions = []
+    host_exceptions = []
+    for exception in exceptions:
+        if exception['type'] == 'host':
+            host_exceptions.append(exception['domain'])
+        elif exception['type'] == 'regex':
+            regex_exceptions.append(exception['domain'])
 
     all_domains_by_type = {}
     for tracker in trackers:
@@ -57,7 +83,7 @@ def fetch_and_process_trackers(trackers):
         response = requests.get(domain_url)
         if response.status_code == 200:
             file_content = response.text
-            domains = read_domains(file_content)
+            domains = read_domains(file_content, regex_exceptions, host_exceptions)
             if tracker_type not in all_domains_by_type:
                 all_domains_by_type[tracker_type] = []
 
@@ -105,7 +131,8 @@ def save_domains_to_files(domains_by_type):
 
 def update_lists():
     trackers = read_trackers()
-    all_domains_by_type = fetch_and_process_trackers(trackers)
+    exceptions = read_exceptions()
+    all_domains_by_type = fetch_and_process_trackers(trackers, exceptions)
     save_domains_to_files(all_domains_by_type)
 
 if __name__ == '__main__':
