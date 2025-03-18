@@ -1,9 +1,9 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-03-09 08:01:47 UTC
-# entries: 9315
-# additions: 11
-# removals: 1
+# last updated on 2025-03-18 14:36:41 UTC
+# entries: 9316
+# additions: 1
+# removals: 0
 #
 0.0.0.0 05racismo.blogspot.cl
 0.0.0.0 05racismo.blogspot.com.es
@@ -889,6 +889,7 @@
 0.0.0.0 blacksupremacynow.com
 0.0.0.0 blksupremacy.us
 0.0.0.0 block-test-hate-junk.developerdan.com
+0.0.0.0 block-test.developerdan.com
 0.0.0.0 blog-da-annazinha.blogger.com.br
 0.0.0.0 blog.anazi.co.za
 0.0.0.0 blog.beastwatchnews.com
