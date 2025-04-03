@@ -1,9 +1,9 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-03-30 09:02:02 UTC
-# entries: 11489
-# additions: 5
-# removals: 1
+# last updated on 2025-04-03 22:08:47 UTC
+# entries: 11490
+# additions: 1
+# removals: 0
 #
 0.0.0.0 05racismo.blogspot.cl
 0.0.0.0 05racismo.blogspot.com.es
@@ -2992,6 +2992,7 @@
 0.0.0.0 fresh.news
 0.0.0.0 fresnoleader.com
 0.0.0.0 fresque-antisemitisme.com
+0.0.0.0 fromthetrenchesworldreport.com
 0.0.0.0 frontpage-cpcontacts.niggermania.co
 0.0.0.0 fruit-nazis.justademo.com.au
 0.0.0.0 fruits.news
