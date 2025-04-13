@@ -1,9 +1,9 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-04-03 22:08:47 UTC
-# entries: 11490
+# last updated on 2025-04-13 09:02:10 UTC
+# entries: 11486
 # additions: 1
-# removals: 0
+# removals: 5
 #
 0.0.0.0 05racismo.blogspot.cl
 0.0.0.0 05racismo.blogspot.com.es
@@ -596,7 +596,6 @@
 0.0.0.0 artinazinc.fr
 0.0.0.0 artlucbylucianazibordi.blogspot.com.br
 0.0.0.0 artofnazism.blogspot.com.es
-0.0.0.0 asamericanasapplepie.org
 0.0.0.0 asfaltnazimno.com.pl
 0.0.0.0 asfaltnazimno.pl
 0.0.0.0 asheepnomore.net
@@ -2632,7 +2631,6 @@
 0.0.0.0 entnazifizierung.at
 0.0.0.0 entnazifizierung.bleaks.de
 0.0.0.0 entnazifizierung.de
-0.0.0.0 entnazifizierungjetzt.de
 0.0.0.0 environ.news
 0.0.0.0 enviroracism.ca
 0.0.0.0 enzymesandprobiotics.naturalnews.com
@@ -3295,7 +3293,6 @@
 0.0.0.0 gymnazio.co.uk
 0.0.0.0 gymnazion.pl
 0.0.0.0 gymnazista.cz
-0.0.0.0 gymnazium-amazon.cz
 0.0.0.0 gymnazium-brno.cz
 0.0.0.0 gymnazium-ck.cz
 0.0.0.0 gymnazium-domazlice.cz
@@ -3679,6 +3676,7 @@
 0.0.0.0 huntingtontimes.com
 0.0.0.0 huntsvilleleader.com
 0.0.0.0 huromslowjuicers.naturalnews.com
+0.0.0.0 husqvarnazilina.sk
 0.0.0.0 hutchtoday.com
 0.0.0.0 hw-cpanel.niggermania.co
 0.0.0.0 hw.infowars.com
@@ -4387,7 +4385,6 @@
 0.0.0.0 listsmx.scientology.org
 0.0.0.0 litchfieldhillstoday.com
 0.0.0.0 literallyunbelievable.org
-0.0.0.0 littleappletimes.com
 0.0.0.0 livemonitor.co.za
 0.0.0.0 liveqordie.com
 0.0.0.0 livestreamberlin.marvinaziz.de
@@ -7801,7 +7798,6 @@
 0.0.0.0 scpanews.com
 0.0.0.0 scrantonreporter.com
 0.0.0.0 scrapetv.com
-0.0.0.0 scrappleface.com
 0.0.0.0 sctennnews.com
 0.0.0.0 sctexasnews.com
 0.0.0.0 scvanews.com
