@@ -1,9 +1,9 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-04-13 09:02:10 UTC
-# entries: 11486
+# last updated on 2025-04-20 09:02:13 UTC
+# entries: 11487
 # additions: 1
-# removals: 5
+# removals: 0
 #
 0.0.0.0 05racismo.blogspot.cl
 0.0.0.0 05racismo.blogspot.com.es
@@ -3498,6 +3498,7 @@
 0.0.0.0 hockeysupremacy.ca
 0.0.0.0 hockeysupremacystore.shop
 0.0.0.0 hockeysupremacywholesale.shop
+0.0.0.0 hodnotapenazi.sk
 0.0.0.0 hodovnazizkov.cz
 0.0.0.0 hodzanazim.com
 0.0.0.0 hofnazifrei.blogspot.de
