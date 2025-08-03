@@ -1,8 +1,8 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-07-27 09:02:31 UTC
-# entries: 13285
-# additions: 139
+# last updated on 2025-08-03 09:02:30 UTC
+# entries: 13342
+# additions: 57
 # removals: 0
 #
 0.0.0.0 05racismo.blogspot.cl
@@ -243,6 +243,7 @@
 0.0.0.0 airsupremacy.biz
 0.0.0.0 airsupremacy.co.uk
 0.0.0.0 aisanazionale.com
+0.0.0.0 aisupremacygame.com
 0.0.0.0 akali-cpcalendars.niggermania.co
 0.0.0.0 akantisemitismus.blogsport.de
 0.0.0.0 akbusinessdaily.com
@@ -388,6 +389,7 @@
 0.0.0.0 anazindian.co.uk
 0.0.0.0 anazindiantakeaway.co.uk
 0.0.0.0 anazion.ca
+0.0.0.0 anaziri.com
 0.0.0.0 anazirma.es
 0.0.0.0 anazirner.de
 0.0.0.0 anazis.meteo.fr
@@ -406,6 +408,7 @@
 0.0.0.0 aniturnakliyat.comwww.scientologynews.org
 0.0.0.0 ankaranazillinakliyat.online
 0.0.0.0 ankenyguide.com
+0.0.0.0 anmdo-nazionale.com
 0.0.0.0 anna-nazima.blogspot.se
 0.0.0.0 annalenazintel.de
 0.0.0.0 annarbortimes.com
@@ -574,6 +577,8 @@
 0.0.0.0 antisemitism-europe.blogspot.com.au
 0.0.0.0 antisemitism-europe.blogspot.de
 0.0.0.0 antisemitism-europe.blogspot.nl
+0.0.0.0 antisemitism-islamofobi.com
+0.0.0.0 antisemitism-islamofobi.se
 0.0.0.0 antisemitism.a.wiki.co.il
 0.0.0.0 antisemitism.ca
 0.0.0.0 antisemitism.co.uk
@@ -719,6 +724,7 @@
 0.0.0.0 art.iasmembership.org
 0.0.0.0 artes-da-annazinha.blogger.com.br
 0.0.0.0 artinazinc.fr
+0.0.0.0 artistsagainstfascism.online
 0.0.0.0 artlucbylucianazibordi.blogspot.com.br
 0.0.0.0 artofnazism.blogspot.com.es
 0.0.0.0 asfaltnazimno.com.pl
@@ -992,6 +998,8 @@
 0.0.0.0 backend-autodiscover.niggermania.co
 0.0.0.0 backend-webdisk.niggermania.co
 0.0.0.0 backendcpcalendars.niggermania.co
+0.0.0.0 backpackenazie.com
+0.0.0.0 backpackenazie.site
 0.0.0.0 backpackeninazie.nl
 0.0.0.0 backtosardinia.itwww.iasmembership.org
 0.0.0.0 backup.nsm88.org
@@ -1042,6 +1050,7 @@
 0.0.0.0 batonrougereporter.com
 0.0.0.0 battle-supremacy.softonic.pl
 0.0.0.0 battlecreektimes.com
+0.0.0.0 battleforsupremacy.net
 0.0.0.0 bau-da-annazinha.blogger.com.br
 0.0.0.0 baufinazierung.chek24.de
 0.0.0.0 baufinazierung.de
@@ -1390,6 +1399,7 @@
 0.0.0.0 caaws-homophobiainsport.ca
 0.0.0.0 cabarrustoday.com
 0.0.0.0 cabinetschinazi.com
+0.0.0.0 cabronazi.com
 0.0.0.0 cabronazi.es
 0.0.0.0 cabusinessdaily.com
 0.0.0.0 cacao.naturalnews.com
@@ -1428,6 +1438,7 @@
 0.0.0.0 canadianvoicesagainstracism.ca
 0.0.0.0 canaziaid.ca
 0.0.0.0 canazizoglu.de
+0.0.0.0 cancelracism.com
 0.0.0.0 cancermyths.com
 0.0.0.0 cancerscams.com
 0.0.0.0 cancersolutions.news
@@ -1552,6 +1563,7 @@
 0.0.0.0 centralwynews.com
 0.0.0.0 centroculturalenazionale.com
 0.0.0.0 centronazionaledigitalforensics.com
+0.0.0.0 centronazionalelaser.com
 0.0.0.0 centronazionalesegnalazioni.it
 0.0.0.0 centroplexnews.com
 0.0.0.0 centroraccoltanazionale.net
@@ -1615,6 +1627,7 @@
 0.0.0.0 chinazihejypx.com
 0.0.0.0 chinazihua.com
 0.0.0.0 chinazimbabwe.org
+0.0.0.0 chinazime.com
 0.0.0.0 chinazine.com
 0.0.0.0 chinazipline.com
 0.0.0.0 chinazipperbag.com
@@ -1876,6 +1889,7 @@
 0.0.0.0 coronavirushoax.net
 0.0.0.0 coronavirusracism.ca
 0.0.0.0 corp.nsm88.org
+0.0.0.0 corpoecoforestalenazionale.com
 0.0.0.0 corponazionaleguardiaaifuochi.blog
 0.0.0.0 corponazionaleguardiaaifuochi.com
 0.0.0.0 corponazionaleguardiaaifuochi.online
@@ -2678,6 +2692,7 @@
 0.0.0.0 digitalsupremacylifestyle.com
 0.0.0.0 dignazilegnami.com
 0.0.0.0 dilnazivota.cz
+0.0.0.0 dimer-linsey-nazi.shop
 0.0.0.0 dimmers.ruwww.iasmembership.org
 0.0.0.0 dimmers.ruwww.scientologynews.org
 0.0.0.0 dinashkenazi.co.il
@@ -2704,6 +2719,7 @@
 0.0.0.0 divadlonazivo.cz
 0.0.0.0 divinitynow.org
 0.0.0.0 djouabri-nazim.fr
+0.0.0.0 djtnazi.com
 0.0.0.0 dk.scientology.org
 0.0.0.0 dl.nazicht.nl
 0.0.0.0 dl2.nazicht.nl
@@ -2911,6 +2927,7 @@
 0.0.0.0 ebooks-politik-zeitgeschichte-extremismus.gleich-lesen.de
 0.0.0.0 ecalabamanews.com
 0.0.0.0 eccellenzesanitarieinternazionali.com
+0.0.0.0 ecenazi.top
 0.0.0.0 ecgeorgianews.com
 0.0.0.0 ecindiananews.com
 0.0.0.0 eciowanews.com
@@ -3458,6 +3475,7 @@
 0.0.0.0 foodscience.news
 0.0.0.0 foodstorage.news
 0.0.0.0 foodsupply.news
+0.0.0.0 footballnazi.com
 0.0.0.0 footballvhomophobia.co.uk
 0.0.0.0 foothillsreview.com
 0.0.0.0 forbiddenknowledgetv.net
@@ -3764,6 +3782,7 @@
 0.0.0.0 gjimnazipartizani.com
 0.0.0.0 gjimnaziqemalstafa.net
 0.0.0.0 glaciercountrynews.com
+0.0.0.0 glamoursupremacy.com
 0.0.0.0 glendalesun.com
 0.0.0.0 glenelderguide.com
 0.0.0.0 glitch.news
@@ -4355,6 +4374,7 @@
 0.0.0.0 ignazioepaul.com
 0.0.0.0 ignaziofresu.blogspot.de
 0.0.0.0 ignaziogirardi.com
+0.0.0.0 ignaziogrecu.com
 0.0.0.0 ignaziomalenotti.com
 0.0.0.0 ignaziopacces.com
 0.0.0.0 ignaziopicardi.ca
@@ -4471,6 +4491,7 @@
 0.0.0.0 inner-join.nazicht.nl
 0.0.0.0 innternazionale.at
 0.0.0.0 innternazionale.de
+0.0.0.0 inps-nazionale.online
 0.0.0.0 inracism.my.id
 0.0.0.0 insectglaivesupremacy.com
 0.0.0.0 inseminazionevitro.com
@@ -4882,6 +4903,7 @@
 0.0.0.0 kitchenmatenazifa.com
 0.0.0.0 kitsapreview.com
 0.0.0.0 kitsbyrenazitoh.blogspot.com.br
+0.0.0.0 kizunazisho.com
 0.0.0.0 kladnazilin.cz
 0.0.0.0 klaragymnazia.com
 0.0.0.0 kleinazie-helmond.nl
@@ -5086,6 +5108,7 @@
 0.0.0.0 lenazitzler.de
 0.0.0.0 lenouveaufascisme.blogspot.fr
 0.0.0.0 leonazi.de
+0.0.0.0 leonidisanmarcocomponentenazionaleanfibia.com
 0.0.0.0 leratasupremacy.co.za
 0.0.0.0 letnazije.cz
 0.0.0.0 letsfightnazis.com
@@ -5188,6 +5211,7 @@
 0.0.0.0 loriaskinazi.com
 0.0.0.0 lostepisodes.qanonanonymous.com
 0.0.0.0 lotonazilonalt.com
+0.0.0.0 lotonazilonalts.com
 0.0.0.0 lotonazionale.com
 0.0.0.0 louisianarecord.com
 0.0.0.0 louisianazinefest.com
@@ -5866,6 +5890,7 @@
 0.0.0.0 makeantisemitesashamedagain.com
 0.0.0.0 makenazisdieagain.com
 0.0.0.0 makeracismwrongagain.com
+0.0.0.0 maknazi.com
 0.0.0.0 malanazi-7390.mp.qub.ac.uk
 0.0.0.0 malchow-gegen-nazis.de
 0.0.0.0 male-supremacy.adult
@@ -5913,6 +5938,7 @@
 0.0.0.0 manifatturanazionalepezzoli.it
 0.0.0.0 manilabusinessdaily.com
 0.0.0.0 mansfieldtimes.com
+0.0.0.0 mantapbossupremacy.com
 0.0.0.0 manukahoney.naturalnews.com
 0.0.0.0 map.flatearthers.org
 0.0.0.0 mapadoracismo.mpba.mp.br
@@ -6545,6 +6571,7 @@
 0.0.0.0 nazia.pinger.pl
 0.0.0.0 nazia.shop
 0.0.0.0 nazia.uk
+0.0.0.0 nazia.xyz
 0.0.0.0 nazia4shootershill.co.uk
 0.0.0.0 naziaaestheticskinandlaser.com
 0.0.0.0 naziaafroze.com
@@ -6640,6 +6667,7 @@
 0.0.0.0 nazidi.ru
 0.0.0.0 nazidickpunches.com
 0.0.0.0 nazidj.club
+0.0.0.0 nazidjt.com
 0.0.0.0 nazidla2003.cz
 0.0.0.0 nazidle.cz
 0.0.0.0 naziduitsland.allepaginas.nl
@@ -6728,6 +6756,9 @@
 0.0.0.0 nazifesarkoy.com
 0.0.0.0 nazifeste-verhindern.de
 0.0.0.0 nazifesteabschalten.blogsport.de
+0.0.0.0 nazifetalayhan.com
+0.0.0.0 nazifetalayhan.net
+0.0.0.0 nazifetalayhan.xyz
 0.0.0.0 nazifhanif.com
 0.0.0.0 nazifhomespa.com
 0.0.0.0 nazifi-bau.ch
@@ -6864,6 +6895,7 @@
 0.0.0.0 nazila.stiva.org.uk
 0.0.0.0 nazila.uk
 0.0.0.0 nazila.upstrant.co.uk
+0.0.0.0 nazilaazizi.com
 0.0.0.0 nazilabeauty.nl
 0.0.0.0 naziladendichtmachen.blogsport.de
 0.0.0.0 nazilafoodequipment.ca
@@ -6875,6 +6907,7 @@
 0.0.0.0 nazilanetwork.com
 0.0.0.0 nazilanetworks.com
 0.0.0.0 nazilaportfolio.com
+0.0.0.0 nazilashamsizadeh.com
 0.0.0.0 nazilatravel.com
 0.0.0.0 nazilazamani.org
 0.0.0.0 nazilazarei.com
@@ -6966,6 +6999,7 @@
 0.0.0.0 nazimaku.cz
 0.0.0.0 nazimakujicin.cz
 0.0.0.0 nazimalemdar.de
+0.0.0.0 nazimali.com
 0.0.0.0 nazimallam.fr
 0.0.0.0 nazimama.com
 0.0.0.0 nazimamajed.com
@@ -7039,6 +7073,7 @@
 0.0.0.0 nazimsarikaya.com
 0.0.0.0 nazimsesen.com
 0.0.0.0 nazimshop.com
+0.0.0.0 nazimsite.shop
 0.0.0.0 nazimskathiroll.com
 0.0.0.0 nazimspoetry.blogspot.se
 0.0.0.0 nazimtef.fr
@@ -7088,6 +7123,7 @@
 0.0.0.0 nazinho-mottao.musicload.de
 0.0.0.0 nazinho.com.br
 0.0.0.0 nazinightmare.us
+0.0.0.0 nazinisar.shop
 0.0.0.0 nazinmedia.com
 0.0.0.0 nazinnmusic.co.za
 0.0.0.0 nazinno.com
@@ -7100,6 +7136,7 @@
 0.0.0.0 nazinuclear.com
 0.0.0.0 nazinuss.myblog.de
 0.0.0.0 nazinvest.co.uk
+0.0.0.0 nazinyahu.xyz
 0.0.0.0 nazioas.cn
 0.0.0.0 nazioc.com
 0.0.0.0 naziomel.dkonto.pl
@@ -7145,6 +7182,7 @@
 0.0.0.0 nazioneerivoluzione.blogspot.de
 0.0.0.0 nazionelle.net
 0.0.0.0 nazionelombarda.org
+0.0.0.0 nazionenapulitana.org
 0.0.0.0 nazionerom.blogspot.fr
 0.0.0.0 nazionestudio.com
 0.0.0.0 nazioneveneta-gov.org
@@ -7153,6 +7191,7 @@
 0.0.0.0 nazionobrera.blogspot.de
 0.0.0.0 nazioperator.xyz
 0.0.0.0 naziornot.co.uk
+0.0.0.0 naziovideo.pro
 0.0.0.0 nazip.cz
 0.0.0.0 nazipaikidze.com
 0.0.0.0 nazipartor.online
@@ -7220,6 +7259,7 @@
 0.0.0.0 naziramiri.com
 0.0.0.0 naziranalytics.com
 0.0.0.0 nazirandsonsllc.com
+0.0.0.0 naziransari.com
 0.0.0.0 naziransultanfoundation.com
 0.0.0.0 nazirap.de
 0.0.0.0 nazirapteroexplorers.com
@@ -7370,6 +7410,7 @@
 0.0.0.0 nazishmakeup.co.uk
 0.0.0.0 nazishmalik.com
 0.0.0.0 nazishmasoodresearch.org
+0.0.0.0 nazishmathninja.com
 0.0.0.0 nazishmobilecommunication.com
 0.0.0.0 nazishnjeffery.com
 0.0.0.0 nazishnjeffery.org
@@ -7475,6 +7516,7 @@
 0.0.0.0 naziyaedukasi.com
 0.0.0.0 naziyarugs.com
 0.0.0.0 naziyarus.com
+0.0.0.0 naziyashaikh.com
 0.0.0.0 naziyawahid.com
 0.0.0.0 naziz.uk
 0.0.0.0 nazizce.cz
@@ -8171,6 +8213,7 @@
 0.0.0.0 organicstrawberry.naturalnews.com
 0.0.0.0 organicsupercberryblend.naturalnews.com
 0.0.0.0 organicsuperfoodseeds.naturalnews.com
+0.0.0.0 organicsupremacy.com
 0.0.0.0 organicsurvivalfood.naturalnews.com
 0.0.0.0 organictomatopowder.naturalnews.com
 0.0.0.0 organicturmeric.naturalnews.com
@@ -8262,6 +8305,7 @@
 0.0.0.0 pannazielona.pinger.pl
 0.0.0.0 pansenazidose.de
 0.0.0.0 pantheon-cpanel.niggermania.co
+0.0.0.0 papucegegenazis.ch
 0.0.0.0 paramountplusfascism.com
 0.0.0.0 paranazinho.com.br
 0.0.0.0 parconazionaledelmatese.org
@@ -8524,6 +8568,7 @@
 0.0.0.0 pozycjonowanie-w-polsce.illuminazione2000.com.pl
 0.0.0.0 ppqmpmdirecttrainer.comwww.iasmembership.org
 0.0.0.0 pracanazielono.pl
+0.0.0.0 practiceantiracism.com
 0.0.0.0 prad-ze-slonca.illuminazione2000.com.pl
 0.0.0.0 pradelnazije.cz
 0.0.0.0 pragmaticradicalism.co.uk
@@ -8545,6 +8590,7 @@
 0.0.0.0 premiointernazionalesenghor.com
 0.0.0.0 premiointernazionalevictoria.com
 0.0.0.0 premionazionale-poesiadialettale.com
+0.0.0.0 premionazionale.com
 0.0.0.0 premium-programm.christinazimmerebner.at
 0.0.0.0 premnazirfoundation.com
 0.0.0.0 preparedness.news
@@ -8706,6 +8752,7 @@
 0.0.0.0 racism-in-a-kids-show.blogspot.ca
 0.0.0.0 racism-in-a-kids-show.blogspot.co.at
 0.0.0.0 racism-notes.blogspot.co.uk
+0.0.0.0 racism.app
 0.0.0.0 racism.ca
 0.0.0.0 racism.co.in
 0.0.0.0 racism.com.au
@@ -9503,6 +9550,7 @@
 0.0.0.0 sm-srv01.nvic.org
 0.0.0.0 smallcapsupremacy.com
 0.0.0.0 smartmeters.news
+0.0.0.0 smartracism.xyz
 0.0.0.0 smashhomophobia.blogsport.de
 0.0.0.0 smhwtfnews.com
 0.0.0.0 smobserved.com
@@ -9568,6 +9616,7 @@
 0.0.0.0 snazi.fr
 0.0.0.0 snazi.touk.org.uk
 0.0.0.0 snazibu.com
+0.0.0.0 snazie.shop
 0.0.0.0 snazifino.site
 0.0.0.0 snazii.com
 0.0.0.0 snazilky.cz
@@ -9599,6 +9648,7 @@
 0.0.0.0 solesupremacy-us.shop
 0.0.0.0 somersettimes.com
 0.0.0.0 somicom.com
+0.0.0.0 sonderbynazia.com
 0.0.0.0 sonrisechurchofthevalley.comwww.scientologynews.org
 0.0.0.0 soolenazir.biz
 0.0.0.0 soonerstatenews.com
@@ -9611,6 +9661,7 @@
 0.0.0.0 sosfascisme.fr
 0.0.0.0 sosracisme.ca
 0.0.0.0 sosracisme33.blogspot.fr
+0.0.0.0 sosracismemoselle.org
 0.0.0.0 sosracismerhone.20minutes-blogs.fr
 0.0.0.0 sosracismesaintjunien.fr
 0.0.0.0 sosracismo.blogspot.com.br
@@ -9953,6 +10004,7 @@
 0.0.0.0 studiointernazionale.pl
 0.0.0.0 studiointernazionaleitalia.com
 0.0.0.0 studiolegaleavvocatointernazionale.com
+0.0.0.0 studiolegaleinternazionale.info
 0.0.0.0 studionazielonej.pl
 0.0.0.0 studis-gegen-rechtsextremismus.de
 0.0.0.0 stupid.news
@@ -10153,6 +10205,7 @@
 0.0.0.0 supremacyparkhomerenovation.co.uk
 0.0.0.0 supremacyparkhomerenovation.uk
 0.0.0.0 supremacyparkhomerenovations.uk
+0.0.0.0 supremacypenal.shop
 0.0.0.0 supremacypets.com
 0.0.0.0 supremacyplumbingandprojects.co.za
 0.0.0.0 supremacypoms.chow.com.br
@@ -10701,6 +10754,7 @@
 0.0.0.0 vancouveragainstfascism.ca
 0.0.0.0 vancouverreporter.com
 0.0.0.0 vanmassenhovemiddelkerke.bewww.iasmembership.org
+0.0.0.0 vanquishfascism.com
 0.0.0.0 vareninazivo.cz
 0.0.0.0 varnish.prisonplanet.com
 0.0.0.0 varnish.us-east-1.infowars.com
@@ -13189,13 +13243,16 @@
 0.0.0.0 yakimatimes.com
 0.0.0.0 yameenaziz65.com
 0.0.0.0 yanazielstra.nl
+0.0.0.0 yanazik.com
 0.0.0.0 yanisbenaziza.fr
 0.0.0.0 yasamanazizpour.com
+0.0.0.0 yaseralanazi.site
 0.0.0.0 yasinazize4321.xyz
 0.0.0.0 yasmeennazir.com
 0.0.0.0 yavapainews.com
 0.0.0.0 yayasanazizah.com
 0.0.0.0 yeetsupremacy.xyz
+0.0.0.0 yegagainstracism.com
 0.0.0.0 yehuda.ashkinazi.co.il
 0.0.0.0 yelenazinchenko.com
 0.0.0.0 yellowhammertimes.com
