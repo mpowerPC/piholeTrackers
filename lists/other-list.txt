@@ -1,8 +1,8 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-08-17 09:02:35 UTC
-# entries: 13501
-# additions: 73
+# last updated on 2025-09-07 09:02:53 UTC
+# entries: 13551
+# additions: 50
 # removals: 0
 #
 0.0.0.0 05racismo.blogspot.cl
@@ -280,6 +280,7 @@
 0.0.0.0 albusinessdaily.com
 0.0.0.0 aldonaziolkowska.pl
 0.0.0.0 aldrigmerantisemitism.se
+0.0.0.0 alenazidkova.cz
 0.0.0.0 alertchild.com
 0.0.0.0 alerts.nsm88.org
 0.0.0.0 alexandracismondi.book.fr
@@ -1623,6 +1624,7 @@
 0.0.0.0 charlestonreporter.com
 0.0.0.0 chat.codoh.com
 0.0.0.0 chat.projectcamelotportal.com
+0.0.0.0 chatanazimu.cz
 0.0.0.0 checkout.promopowersupremacy.co.uk
 0.0.0.0 chefautodiscover.niggermania.co
 0.0.0.0 chefnazim.com
@@ -2891,6 +2893,7 @@
 0.0.0.0 dunkerknazivo.cz
 0.0.0.0 dupagepolicyjournal.com
 0.0.0.0 durhamreporter.com
+0.0.0.0 dusenazivu.cz
 0.0.0.0 dutch.rtc.org
 0.0.0.0 dutchantisemitism.nl
 0.0.0.0 duvaltimes.com
@@ -3454,6 +3457,7 @@
 0.0.0.0 filmmakers-against-racism.blogspot.com.au
 0.0.0.0 filmmakers-against-racism.blogspot.de
 0.0.0.0 filmnazivo.cz
+0.0.0.0 filmynazivo.cz
 0.0.0.0 filthynazibutthole.com
 0.0.0.0 finanazionabe.com
 0.0.0.0 financenazitra.cz
@@ -3516,6 +3520,7 @@
 0.0.0.0 fondonazionalemarittimi.com
 0.0.0.0 fondulacnews.com
 0.0.0.0 fonojulianazingalli.com.br
+0.0.0.0 fontanazivota.cz
 0.0.0.0 foodcollapse.com
 0.0.0.0 foodevolution.news
 0.0.0.0 foodforensics.naturalnews.com
@@ -3982,8 +3987,10 @@
 0.0.0.0 gymnazium-praha-brno.cz
 0.0.0.0 gymnazium-praha.cz
 0.0.0.0 gymnazium-prazacka.cz
+0.0.0.0 gymnazium-roku.cz
 0.0.0.0 gymnazium-strakonice.cz
 0.0.0.0 gymnazium-svetla.cz
+0.0.0.0 gymnazium-svobodna.cz
 0.0.0.0 gymnazium-tachov.cz
 0.0.0.0 gymnazium-vk.cz
 0.0.0.0 gymnazium.cz
@@ -3991,6 +3998,7 @@
 0.0.0.0 gymnazium01.org
 0.0.0.0 gymnazium8.ru
 0.0.0.0 gymnaziumamazon.cz
+0.0.0.0 gymnaziumavida.cz
 0.0.0.0 gymnaziumbc.cz
 0.0.0.0 gymnaziumbma.cz
 0.0.0.0 gymnaziumbohumilahrabala.cz
@@ -4012,13 +4020,17 @@
 0.0.0.0 gymnaziumkodanska.cz
 0.0.0.0 gymnaziumkonice.cz
 0.0.0.0 gymnaziumkrnov.cz
+0.0.0.0 gymnaziumkudykampus.cz
 0.0.0.0 gymnaziumliberec.cz
 0.0.0.0 gymnaziummensa.cz
 0.0.0.0 gymnaziummilevsko.cz
+0.0.0.0 gymnaziummt.cz
+0.0.0.0 gymnaziumnadkajetankou.cz
 0.0.0.0 gymnaziumnemeckehoradu.cz
 0.0.0.0 gymnaziumolomouc.cz
 0.0.0.0 gymnaziumopatov.cz
 0.0.0.0 gymnaziumostrava.cz
+0.0.0.0 gymnaziumpacov.cz
 0.0.0.0 gymnaziumpe.cz
 0.0.0.0 gymnaziumpn.cz
 0.0.0.0 gymnaziumpraha.cz
@@ -4026,6 +4038,7 @@
 0.0.0.0 gymnaziumprelouc.cz
 0.0.0.0 gymnaziumrajec.cz
 0.0.0.0 gymnaziumricany.cz
+0.0.0.0 gymnaziumroku.cz
 0.0.0.0 gymnaziumrymarov.cz
 0.0.0.0 gymnaziumslany.cz
 0.0.0.0 gymnaziumsmvv.cz
@@ -4036,6 +4049,7 @@
 0.0.0.0 gymnaziumuh.cz
 0.0.0.0 gymnaziumvk.cz
 0.0.0.0 gymnaziumvodnany.cz
+0.0.0.0 gymnaziumvpraze.cz
 0.0.0.0 gymnaziumzatec.cz
 0.0.0.0 gymnaziumznojmo.cz
 0.0.0.0 gynazix.com
@@ -4058,6 +4072,7 @@
 0.0.0.0 hamiltonreporter.com
 0.0.0.0 hamiznon-nazid.co.il
 0.0.0.0 hanauhasstnazis.blogsport.de
+0.0.0.0 hanazije.cz
 0.0.0.0 hanazimanova.cz
 0.0.0.0 hanazir.free.fr
 0.0.0.0 hanazirkiev2.co.il
@@ -4142,6 +4157,7 @@
 0.0.0.0 hebrew.rtc.org
 0.0.0.0 heirloomseedsgarden.naturalnews.com
 0.0.0.0 helenaziegler.de
+0.0.0.0 helenazikmundova.cz
 0.0.0.0 helenazimowska.pl
 0.0.0.0 helenfornazier.blogspot.ca
 0.0.0.0 helenfornazier.blogspot.com.br
@@ -4371,6 +4387,7 @@
 0.0.0.0 howardconews.com
 0.0.0.0 howardschultz.news
 0.0.0.0 howtofightantisemitism.us
+0.0.0.0 hranazivot.cz
 0.0.0.0 hrdailywire.com
 0.0.0.0 hrnazi.thal.uk
 0.0.0.0 hsb.nazicht.nl
@@ -4405,6 +4422,7 @@
 0.0.0.0 icenazis.com
 0.0.0.0 ichbinjakeinnaziaber.de
 0.0.0.0 icpcalendars.niggermania.co
+0.0.0.0 ictgymnazium.cz
 0.0.0.0 id.nsm88.org
 0.0.0.0 idasacguide.com
 0.0.0.0 idbusinessdaily.com
@@ -4726,6 +4744,7 @@
 0.0.0.0 jak-ogrzewac.illuminazione2000.com.pl
 0.0.0.0 jaknazisk.cz
 0.0.0.0 jaknazivot.cz
+0.0.0.0 jaknazivotko.cz
 0.0.0.0 jaknazivotopis.cz
 0.0.0.0 jaknazivotvefrancii.cz
 0.0.0.0 jakonazivo.cz
@@ -4786,6 +4805,7 @@
 0.0.0.0 jidelnazizkova.cz
 0.0.0.0 jinx-autodiscover.niggermania.co
 0.0.0.0 jiveaces.scientology.org
+0.0.0.0 jkgymnazium.cz
 0.0.0.0 jkkfoundation.orgwww.scientologynews.org
 0.0.0.0 jmkhwanazi.findanaccountant.co.za
 0.0.0.0 jnazieolq.cfd
@@ -4871,6 +4891,7 @@
 0.0.0.0 karnevalrozvrzanazidle.cz
 0.0.0.0 karnevel-rozvrzanazidle.cz
 0.0.0.0 karnevelrozvrzanazidle.cz
+0.0.0.0 karolinazidkova.cz
 0.0.0.0 karolinaziel.nazwa.pl
 0.0.0.0 karolinazielinska.pl
 0.0.0.0 karolinazielinskastudio.com
@@ -4880,6 +4901,7 @@
 0.0.0.0 karolinazitkova.com
 0.0.0.0 karoonazin.com
 0.0.0.0 karrarnazim.space
+0.0.0.0 karvinazije.cz
 0.0.0.0 kashifnazirartist.online
 0.0.0.0 kata33.com
 0.0.0.0 katanazirconia.com.au
@@ -5155,6 +5177,7 @@
 0.0.0.0 lebanonpanews.com
 0.0.0.0 lebonazimut.fr
 0.0.0.0 lebonazimut.studyeat.fr
+0.0.0.0 lecitelstvinazivo.cz
 0.0.0.0 ledilluminazione.com
 0.0.0.0 leeknowsupremacy.co.uk
 0.0.0.0 leenazimmermann.de
@@ -5168,6 +5191,7 @@
 0.0.0.0 leinnazir.blogspot.fr
 0.0.0.0 lekarnazidenice.cz
 0.0.0.0 lekarnazirovnice.cz
+0.0.0.0 lekynazily.cz
 0.0.0.0 lemoncake.naturalnews.com
 0.0.0.0 lenaziegler.de
 0.0.0.0 lenazielinska.cfd
@@ -6120,6 +6144,7 @@
 0.0.0.0 medicaltyranny.com
 0.0.0.0 medicalviolence.com
 0.0.0.0 medicinazienda.com
+0.0.0.0 medicinazivota.cz
 0.0.0.0 medicinazivota.sk
 0.0.0.0 medicine.news
 0.0.0.0 medimode.marvinaziz.de
@@ -6165,8 +6190,10 @@
 0.0.0.0 metricmedianews.com
 0.0.0.0 metrobusinessnetwork.com
 0.0.0.0 metroeastsun.com
+0.0.0.0 metropolitnigymnazium.cz
 0.0.0.0 metrowesttimes.com
 0.0.0.0 mexicobusinessdaily.com
+0.0.0.0 mezinarodnigymnazium.cz
 0.0.0.0 mezoonenazi.com
 0.0.0.0 mezoonenazi.shop
 0.0.0.0 miamicourant.com
@@ -7466,6 +7493,7 @@
 0.0.0.0 nazis.club
 0.0.0.0 nazis.co.uk
 0.0.0.0 nazis.com.au
+0.0.0.0 nazis.cz
 0.0.0.0 nazis.de
 0.0.0.0 nazis.nl
 0.0.0.0 nazis.store
@@ -7594,6 +7622,7 @@
 0.0.0.0 nazivosvodafonelive.cz
 0.0.0.0 nazivosvodafonem.cz
 0.0.0.0 nazivot.cz
+0.0.0.0 nazivotanasmrt.cz
 0.0.0.0 nazivote.cz
 0.0.0.0 nazivotsrozumem.cz
 0.0.0.0 nazivovodafonelive.cz
@@ -8353,6 +8382,7 @@
 0.0.0.0 ostracism.loyaleco.org.uk
 0.0.0.0 ostracismo.com.br
 0.0.0.0 ostracismodelbalon.blogspot.de
+0.0.0.0 otevrenazivotem.cz
 0.0.0.0 othmanaziz638.link
 0.0.0.0 othmanebournazil.unblog.fr
 0.0.0.0 otocnazidle.cz
@@ -8467,6 +8497,7 @@
 0.0.0.0 peachtreetimes.com
 0.0.0.0 pedagogianazi4b.blogspot.com.es
 0.0.0.0 pederastanazistefanobassi-gbluff.blogspot.co.uk
+0.0.0.0 pedgymnazium.cz
 0.0.0.0 pedofiloberlusconazi-stefanobassi-gb.blogspot.co.uk
 0.0.0.0 pedofiloberlusconazistefanobassi.blogspot.co.uk
 0.0.0.0 pedofilonazistassassino-paolobarrai.blogspot.co.uk
@@ -8553,6 +8584,7 @@
 0.0.0.0 plaunazide.xxx
 0.0.0.0 plentyofnazis.com
 0.0.0.0 plinkballsupremacy.xyz
+0.0.0.0 plosinazirafa.cz
 0.0.0.0 plwebmail.niggermania.co
 0.0.0.0 plymouthreporter.com
 0.0.0.0 pm05-1.brlojagraficaeskenazi.com.br
@@ -8578,6 +8610,7 @@
 0.0.0.0 podsedakynazidle.cz
 0.0.0.0 pody.bebidasfornaziero.com.br
 0.0.0.0 pointemout.comwww.scientologynews.org
+0.0.0.0 pojisteninazivot.cz
 0.0.0.0 pokalambroguide.com
 0.0.0.0 pokernazivo.cz
 0.0.0.0 pokojenazielonej.nocujmy.pl
@@ -8801,6 +8834,7 @@
 0.0.0.0 putvejini.lvwww.iasmembership.org
 0.0.0.0 putvejini.lvwww.scientologynews.org
 0.0.0.0 pw-ignazia.de
+0.0.0.0 pwcnazivo.cz
 0.0.0.0 q-webdisk.niggermania.co
 0.0.0.0 q66lj-oj0n9y-naziqt.work
 0.0.0.0 qaautodiscover.niggermania.co
@@ -9273,6 +9307,7 @@
 0.0.0.0 ryanaziz.com
 0.0.0.0 ryanaziz.food
 0.0.0.0 rynazie.pro
+0.0.0.0 rytmynazivo.cz
 0.0.0.0 s-autodiscover.niggermania.co
 0.0.0.0 s.nazism.de
 0.0.0.0 s.wearethene.ws
@@ -9308,6 +9343,7 @@
 0.0.0.0 sana.sy
 0.0.0.0 sanantoniostandard.com
 0.0.0.0 sanazia.com
+0.0.0.0 sanazia.cz
 0.0.0.0 sanazia.sk
 0.0.0.0 sanazinteriors.com
 0.0.0.0 sanazir.com
@@ -9421,6 +9457,7 @@
 0.0.0.0 seasalt.naturalnews.com
 0.0.0.0 seatlantanews.com
 0.0.0.0 seattlecitywire.com
+0.0.0.0 sebeobrananazivo.cz
 0.0.0.0 sebeobranazizkov.cz
 0.0.0.0 sebluegrassnews.com
 0.0.0.0 secoloradonews.com
@@ -9755,6 +9792,7 @@
 0.0.0.0 snazira.com
 0.0.0.0 snaziruahmad.com
 0.0.0.0 snazisoci.online
+0.0.0.0 snazivci.cz
 0.0.0.0 sniper-elite-nazi-zombie-army.softonic.pl
 0.0.0.0 sniper.iasmembership.org
 0.0.0.0 sniper.nvic.org
@@ -10173,6 +10211,7 @@
 0.0.0.0 superfoods.news
 0.0.0.0 superfruitcpowder.naturalnews.com
 0.0.0.0 supernazimariotwilightpalinsega.com
+0.0.0.0 superpodniknazizkove.cz
 0.0.0.0 supersupremacy.ascii.uk
 0.0.0.0 suppennazi.de
 0.0.0.0 supplements.naturalnews.com
@@ -10437,6 +10476,7 @@
 0.0.0.0 szkolygminazielonka.szkolnictwa.pl
 0.0.0.0 tabernazingara.es
 0.0.0.0 tackling-racism.co.uk
+0.0.0.0 tadychutnazivot.cz
 0.0.0.0 taichitoronto.com.boothlaw.biz.lindelltv.com
 0.0.0.0 taikainazionaleitalia2024.it
 0.0.0.0 taiwanese.rtc.org
@@ -10492,6 +10532,7 @@
 0.0.0.0 techgiants.news
 0.0.0.0 technazis.com
 0.0.0.0 technazis.org
+0.0.0.0 technickegymnazium.cz
 0.0.0.0 technik.no-racism.de
 0.0.0.0 technocrats.news
 0.0.0.0 techsync.netwww.scientologynews.org
@@ -10794,6 +10835,7 @@
 0.0.0.0 tylerreporter.com
 0.0.0.0 u002fwww.nvic.org
 0.0.0.0 uat.nsm88.org
+0.0.0.0 ubytovnazizkov.cz
 0.0.0.0 ucitelnazivo.cz
 0.0.0.0 uconservative.com
 0.0.0.0 ufficionazionalegarantedisabili.org
@@ -11005,6 +11047,7 @@
 0.0.0.0 vps.iasmembership.org
 0.0.0.0 vrenazicl.click
 0.0.0.0 vs.nazis.myblog.de
+0.0.0.0 vsenazimu.cz
 0.0.0.0 vtbusinessdaily.com
 0.0.0.0 vymenazipu.cz
 0.0.0.0 vynazi.org
@@ -13452,8 +13495,11 @@
 0.0.0.0 zelenazilina.cz
 0.0.0.0 zelenazirafa.cz
 0.0.0.0 zelenazivotu.cz
+0.0.0.0 zenaplnazivota.cz
+0.0.0.0 zenazije.cz
 0.0.0.0 zenazimedia.co.za
 0.0.0.0 zenazive.cz
+0.0.0.0 zenazivot.cz
 0.0.0.0 zenynazivo.cz
 0.0.0.0 zeren-shkola-gimnaziya.edu.kz
 0.0.0.0 zero.zeroracismwales.co.uk
@@ -13476,17 +13522,21 @@
 0.0.0.0 zionistsarenazis.com
 0.0.0.0 zivot-nazivo.cz
 0.0.0.0 zivotnazivo.cz
+0.0.0.0 zivotnazizkove.cz
 0.0.0.0 zizkovnazizkove.cz
+0.0.0.0 zkusebnazizkov.cz
 0.0.0.0 zmail.iasmembership.org
 0.0.0.0 zmail.nvic.org
 0.0.0.0 zmail.thepeoplesvoice.org
 0.0.0.0 zmenazitovnihostylu.cz
+0.0.0.0 zmenazivota.cz
 0.0.0.0 zmenazivotnihostylu.cz
 0.0.0.0 zmiananaziemi.pl
 0.0.0.0 zmianynaziemi.pl
 0.0.0.0 znazik.com
 0.0.0.0 znazirova.ru
 0.0.0.0 znazit.dust.se
+0.0.0.0 znesnazi.cz
 0.0.0.0 zoeluanazingre.ch
 0.0.0.0 zombie.news
 0.0.0.0 zonazielona.pl
