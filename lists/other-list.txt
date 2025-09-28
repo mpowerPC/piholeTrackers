@@ -1,9 +1,9 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-09-07 09:02:53 UTC
-# entries: 13551
-# additions: 50
-# removals: 0
+# last updated on 2025-09-28 09:02:52 UTC
+# entries: 13564
+# additions: 14
+# removals: 1
 #
 0.0.0.0 05racismo.blogspot.cl
 0.0.0.0 05racismo.blogspot.com.es
@@ -193,7 +193,6 @@
 0.0.0.0 advertisingracism.com
 0.0.0.0 advisorfascism.top
 0.0.0.0 advisoryinazione.com
-0.0.0.0 advnazia.net
 0.0.0.0 adwokatkarolinaziemianin.pl
 0.0.0.0 aecilluminazione.de
 0.0.0.0 aecilluminazione.fr
@@ -2552,6 +2551,7 @@
 0.0.0.0 defundracism.us
 0.0.0.0 dehan-schinazi.fr
 0.0.0.0 deine-stimme-gegen-nazis.de
+0.0.0.0 dejpracismysl.cz
 0.0.0.0 dekalbganews.com
 0.0.0.0 dekalbtimes.com
 0.0.0.0 delawarecoguide.com
@@ -3369,6 +3369,7 @@
 0.0.0.0 fathersdayevent.naturalnews.com
 0.0.0.0 fathersfightingfascism.com
 0.0.0.0 fatimanazir.com
+0.0.0.0 faujdarracisms.cyou
 0.0.0.0 fayettevillestandard.com
 0.0.0.0 fayettevilletoday.com
 0.0.0.0 fb-hatespeech.com
@@ -3972,6 +3973,7 @@
 0.0.0.0 gymnazium-ck.cz
 0.0.0.0 gymnazium-domazlice.cz
 0.0.0.0 gymnazium-dubi.cz
+0.0.0.0 gymnazium-frydlant.cz
 0.0.0.0 gymnazium-hostivice.cz
 0.0.0.0 gymnazium-humanitni-jazykove.cz
 0.0.0.0 gymnazium-integra-brno.cz
@@ -4009,6 +4011,7 @@
 0.0.0.0 gymnaziumdc.cz
 0.0.0.0 gymnaziumdecin.cz
 0.0.0.0 gymnaziumdubi.cz
+0.0.0.0 gymnaziumfrydlant.cz
 0.0.0.0 gymnaziumhady.cz
 0.0.0.0 gymnaziumhello.cz
 0.0.0.0 gymnaziumhk.cz
@@ -4044,6 +4047,7 @@
 0.0.0.0 gymnaziumsmvv.cz
 0.0.0.0 gymnaziumstodulky.cz
 0.0.0.0 gymnaziumsvetla.cz
+0.0.0.0 gymnaziumtanvald.cz
 0.0.0.0 gymnaziumtm.cz
 0.0.0.0 gymnaziumtu.cz
 0.0.0.0 gymnaziumuh.cz
@@ -4746,6 +4750,7 @@
 0.0.0.0 jaknazivot.cz
 0.0.0.0 jaknazivotko.cz
 0.0.0.0 jaknazivotopis.cz
+0.0.0.0 jaknazivotopisy.cz
 0.0.0.0 jaknazivotvefrancii.cz
 0.0.0.0 jakonazivo.cz
 0.0.0.0 jakznesnazi.cz
@@ -4762,6 +4767,7 @@
 0.0.0.0 janazimcikova.cz
 0.0.0.0 janazimova.cz
 0.0.0.0 janazirovnicka-zono.cz
+0.0.0.0 janaziskova.cz
 0.0.0.0 janazitna.cz
 0.0.0.0 janazittova.cz
 0.0.0.0 janazizalova.com
@@ -5236,6 +5242,7 @@
 0.0.0.0 librinazione.store
 0.0.0.0 lickingtoday.com
 0.0.0.0 licznazielen.pl
+0.0.0.0 lidevnesnazich.cz
 0.0.0.0 lidodellenazioni.de
 0.0.0.0 life.supremacy-rp.fr
 0.0.0.0 lifeinvader.supremacy-rp.fr
@@ -6070,6 +6077,7 @@
 0.0.0.0 martinazier.de
 0.0.0.0 martinazije.cz
 0.0.0.0 martinazilkova.cz
+0.0.0.0 martinazilova.cz
 0.0.0.0 martinazimmer.de
 0.0.0.0 martinazimmermann.blogspot.fr
 0.0.0.0 martinazimmermann.ch
@@ -6630,6 +6638,7 @@
 0.0.0.0 nazi-munich.com
 0.0.0.0 nazi-muzi.cz
 0.0.0.0 nazi-nederland.nl
+0.0.0.0 nazi-shop.cz
 0.0.0.0 nazi-terror-gegen-jugendliche.de
 0.0.0.0 nazi-terror.de
 0.0.0.0 nazi-umtriebe-en.npage.de
@@ -8553,6 +8562,7 @@
 0.0.0.0 piercetoday.com
 0.0.0.0 pierresecnazi.fr
 0.0.0.0 piiquenazikacolombiana-gatinha.blogspot.com.br
+0.0.0.0 pijpopracismirou.cz
 0.0.0.0 pilotanazioenliga.eus
 0.0.0.0 pinaltoday.com
 0.0.0.0 pinebelttimes.com
@@ -9347,6 +9357,7 @@
 0.0.0.0 sanazia.sk
 0.0.0.0 sanazinteriors.com
 0.0.0.0 sanazir.com
+0.0.0.0 sancenazivot.cz
 0.0.0.0 sandhillstoday.com
 0.0.0.0 sandiegorecord.com
 0.0.0.0 sandovalnews.com
@@ -9676,6 +9687,7 @@
 0.0.0.0 simiagainstracism.org
 0.0.0.0 simitteknesinazilli.com
 0.0.0.0 simonaziomeczek.id.joe.pl
+0.0.0.0 simonazizkova.cz
 0.0.0.0 simplyanazingservices.com
 0.0.0.0 sinazimmermann.com
 0.0.0.0 sindacatonazionale.com
@@ -13479,6 +13491,7 @@
 0.0.0.0 zamienszarenazielone.pl
 0.0.0.0 zanazi.com
 0.0.0.0 zarabiajnaziemi.pl
+0.0.0.0 zaruka-vratenia-penazi.sk
 0.0.0.0 zasadniczaszkolazawodowaspecjalnazi.szkolnictwa.pl
 0.0.0.0 zauberhafteleckereienmitmartinaziehl.de
 0.0.0.0 zbiornikinaziemne.com
