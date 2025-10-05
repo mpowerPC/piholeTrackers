@@ -1,9 +1,9 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-09-28 09:02:52 UTC
-# entries: 13564
-# additions: 14
-# removals: 1
+# last updated on 2025-10-05 09:02:31 UTC
+# entries: 13569
+# additions: 5
+# removals: 0
 #
 0.0.0.0 05racismo.blogspot.cl
 0.0.0.0 05racismo.blogspot.com.es
@@ -4998,6 +4998,7 @@
 0.0.0.0 kitchenmatenazifa.com
 0.0.0.0 kitsapreview.com
 0.0.0.0 kitsbyrenazitoh.blogspot.com.br
+0.0.0.0 kiwifarms.net
 0.0.0.0 kizunazisho.com
 0.0.0.0 kladnazilin.cz
 0.0.0.0 klaragymnazia.com
@@ -7628,6 +7629,7 @@
 0.0.0.0 nazivo-music.cz
 0.0.0.0 nazivo.art
 0.0.0.0 nazivo.cz
+0.0.0.0 nazivo24.sk
 0.0.0.0 nazivosvodafonelive.cz
 0.0.0.0 nazivosvodafonem.cz
 0.0.0.0 nazivot.cz
@@ -9338,6 +9340,7 @@
 0.0.0.0 saikenji.orgwww.scientologynews.org
 0.0.0.0 saimnazir.com
 0.0.0.0 saint-nazianz.wisconsinonline.us
+0.0.0.0 sakersomarvarreannazister.se
 0.0.0.0 salastampanazionalemilano.com
 0.0.0.0 sale-car-parts.illuminazione2000.com.pl
 0.0.0.0 salemnewswire.com
@@ -9718,6 +9721,7 @@
 0.0.0.0 slender.news
 0.0.0.0 slevarnazinku.cz
 0.0.0.0 sloreporter.com
+0.0.0.0 slovakbezpenazi.sk
 0.0.0.0 slowracism.com
 0.0.0.0 slowracism.info
 0.0.0.0 slowracism.net
@@ -11061,6 +11065,7 @@
 0.0.0.0 vs.nazis.myblog.de
 0.0.0.0 vsenazimu.cz
 0.0.0.0 vtbusinessdaily.com
+0.0.0.0 vybavsanazimu.sk
 0.0.0.0 vymenazipu.cz
 0.0.0.0 vynazi.org
 0.0.0.0 vysocinazije.cz
