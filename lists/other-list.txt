@@ -1,8 +1,8 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-10-05 09:02:31 UTC
-# entries: 13569
-# additions: 5
+# last updated on 2025-11-09 10:02:21 UTC
+# entries: 13570
+# additions: 1
 # removals: 0
 #
 0.0.0.0 05racismo.blogspot.cl
@@ -10860,6 +10860,7 @@
 0.0.0.0 uglynigger.com
 0.0.0.0 ukrgymnazium.cz
 0.0.0.0 ultimateflashnews.com
+0.0.0.0 umeniepenazi.sk
 0.0.0.0 uminazi.top
 0.0.0.0 unazi.trubious.co.uk
 0.0.0.0 unazidu.top
