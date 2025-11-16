@@ -1,9 +1,9 @@
 # Blocklist for tracker hosts
 # ----
-# last updated on 2025-11-09 10:02:20 UTC
-# entries: 135780
-# additions: 1984
-# removals: 871
+# last updated on 2025-11-16 10:02:29 UTC
+# entries: 135788
+# additions: 10
+# removals: 2
 #
 0.0.0.0 0-0-gc-007dam1l40se01-1.gbc.criteo.com
 0.0.0.0 0-0.net.daraz.com
@@ -23606,6 +23606,7 @@
 0.0.0.0 creatorsnote.com
 0.0.0.0 creaturecabbage.com
 0.0.0.0 crechearmoryinvolved.com
+0.0.0.0 credentialstrapdoormagnet.com
 0.0.0.0 credishe.com
 0.0.0.0 creditacceptance.tt.omtrdc.net
 0.0.0.0 creditkarmainc.tt.omtrdc.net
@@ -28688,6 +28689,7 @@
 0.0.0.0 dkdipktuh.com
 0.0.0.0 dkepsueazpneu.space
 0.0.0.0 dkeyn.com
+0.0.0.0 dkfjlkgjbhbv.com
 0.0.0.0 dkfkshfzzmxss.online
 0.0.0.0 dkfqrsqg.com
 0.0.0.0 dkgp834o9n8xl.cloudfront.net
@@ -28738,7 +28740,6 @@
 0.0.0.0 dl-test.rivafashion.com
 0.0.0.0 dl-vip.bav.baidu.com
 0.0.0.0 dl-vip.pcfaster.baidu.co.th
-0.0.0.0 dl.2345.com
 0.0.0.0 dl.4buy.net
 0.0.0.0 dl.4kporn.xxx
 0.0.0.0 dl.6thstreet.com
@@ -30450,6 +30451,7 @@
 0.0.0.0 e77lmzbqou0n-a.akamaihd.net
 0.0.0.0 e78c7a74e7.com
 0.0.0.0 e7903973a7.com
+0.0.0.0 e7e0addf05.com
 0.0.0.0 e7e34b16ed.com
 0.0.0.0 e7h.fun
 0.0.0.0 e8370630f3.com
@@ -37354,6 +37356,7 @@
 0.0.0.0 fuaeamtdwbodj.website
 0.0.0.0 fublue.com
 0.0.0.0 fubotv.hb.omtrdc.net
+0.0.0.0 fuck-ads.vercel.app
 0.0.0.0 fuck-dating.com
 0.0.0.0 fuckedbyme.com
 0.0.0.0 fuckthat.xyz
@@ -42496,7 +42499,6 @@
 0.0.0.0 goazlf.mytoys.de
 0.0.0.0 gobacktothefuture.biz
 0.0.0.0 gobeyond.superiorgroup.com
-0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 gobletauxiliary.com
 0.0.0.0 goblin.hupu.com
 0.0.0.0 gobmodfoe.com
@@ -85380,6 +85382,7 @@
 0.0.0.0 odalrevaursartu.net
 0.0.0.0 odalys-vacances.eulerian.net
 0.0.0.0 odalys-vacation-rental.eulerian.net
+0.0.0.0 odamcsk.top
 0.0.0.0 odapsautsie.com
 0.0.0.0 odbsmbtdcjuzp.site
 0.0.0.0 odc.1und1.de
@@ -91055,6 +91058,7 @@
 0.0.0.0 pf05.eulerian.net
 0.0.0.0 pf06.eulerian.net
 0.0.0.0 pf34zdjoeycr.com
+0.0.0.0 pfatrivandrum.org
 0.0.0.0 pfbbqnrj.com
 0.0.0.0 pfbmht.icu
 0.0.0.0 pfdqvf.icu
@@ -101702,6 +101706,7 @@
 0.0.0.0 scuzgq.greencell.global
 0.0.0.0 scvgzt.onequince.com
 0.0.0.0 scw.systems
+0.0.0.0 scwebtech4u.com
 0.0.0.0 scwmllkshdfug.website
 0.0.0.0 scws.120ask.com
 0.0.0.0 scxmwvhc.net
@@ -103841,6 +103846,7 @@
 0.0.0.0 shylibrary.com
 0.0.0.0 shyplan.com
 0.0.0.0 shzqngiqkijmo.site
+0.0.0.0 shzzzz.dftoutiao.com
 0.0.0.0 si-arka.gbc.criteo.com
 0.0.0.0 si.gbc.criteo.com
 0.0.0.0 si1.go2yd.com
@@ -124912,6 +124918,7 @@
 0.0.0.0 uwqsacaoeshlz.rocks
 0.0.0.0 uwrhqzftllepi.site
 0.0.0.0 uwrr.cn
+0.0.0.0 uwsmamsebynub.site
 0.0.0.0 uwtewvalgil.com
 0.0.0.0 uwtgwe.golfballs.com
 0.0.0.0 uwuypebetgkvr.online
@@ -126243,6 +126250,7 @@
 0.0.0.0 vitawelleo.com
 0.0.0.0 vithegnousty.com
 0.0.0.0 vitiqbaajtbmd.site
+0.0.0.0 vitoturizm.com.tr
 0.0.0.0 vitqzd.icu
 0.0.0.0 vitrade02.webtrekk.net
 0.0.0.0 vitrine.buscape.com.ar
