@@ -1,16 +1,9 @@
 # Blocklist for other hosts
 # ----
-<<<<<<< HEAD
-# last updated on 2025-11-09 10:02:21 UTC
-# entries: 13570
-# additions: 1
-# removals: 0
-=======
-# last updated on 2025-12-12 16:27:24 UTC
+# last updated on 2025-12-12 16:43:45 UTC
 # entries: 11598
-# additions: 872
-# removals: 1975
->>>>>>> 84bf66d (updated lists)
+# additions: 11598
+# removals: 0
 #
 0.0.0.0 05racismo.blogspot.cl
 0.0.0.0 05racismo.blogspot.com.es
@@ -96,10 +89,6 @@
 0.0.0.0 a.mx.nazistopping.de
 0.0.0.0 a.niggermania.co
 0.0.0.0 a.ssl.familie-naziri.de
-<<<<<<< HEAD
-0.0.0.0 aanirfan.blogspot.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 aaronaziz.com
 0.0.0.0 aaronazizproductions.com
 0.0.0.0 aautodiscover.niggermania.co
@@ -107,20 +96,11 @@
 0.0.0.0 abcnews.com.co
 0.0.0.0 abdullahnazir.co.uk
 0.0.0.0 abdurrohmanazis.site
-<<<<<<< HEAD
-0.0.0.0 abilenetimes.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 abolish-racism.com
 0.0.0.0 abolishracism.us
 0.0.0.0 abortionracism.com
 0.0.0.0 abounazihstore.com
 0.0.0.0 aboutracism.com
-<<<<<<< HEAD
-0.0.0.0 abqtimes.com
-0.0.0.0 absurd.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 abu-nazir.com
 0.0.0.0 abu-nazir.net
 0.0.0.0 acainazionale2.it
@@ -147,19 +127,9 @@
 0.0.0.0 activesync.rtc.org
 0.0.0.0 actonracism.org.za
 0.0.0.0 actsofracism.com
-<<<<<<< HEAD
-0.0.0.0 actualidad.rt.com
-0.0.0.0 adairmadisonnews.com
-0.0.0.0 adamscountytimes.com
 0.0.0.0 adamsms.comwww.scientologynews.org
 0.0.0.0 adanazirhliarac.com
 0.0.0.0 adanazirvesogutma.com.tr
-0.0.0.0 adareporter.com
-=======
-0.0.0.0 adamsms.comwww.scientologynews.org
-0.0.0.0 adanazirhliarac.com
-0.0.0.0 adanazirvesogutma.com.tr
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 adcnazionale.com
 0.0.0.0 adderallsupremacy.com
 0.0.0.0 addictionnazi.com
@@ -288,10 +258,6 @@
 0.0.0.0 aldonaziolkowska.pl
 0.0.0.0 aldrigmerantisemitism.se
 0.0.0.0 alenazidkova.cz
-<<<<<<< HEAD
-0.0.0.0 alertchild.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 alerts.nsm88.org
 0.0.0.0 alexandracismondi.book.fr
 0.0.0.0 alexisnazimek.my3cx.fr
@@ -306,10 +272,6 @@
 0.0.0.0 alishernazirov.com
 0.0.0.0 alkanaziz.com
 0.0.0.0 all-4music.comwww.scientologynews.org
-<<<<<<< HEAD
-0.0.0.0 alleghenyhighlandstoday.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 alleyesandearsonracism.org
 0.0.0.0 allianz-gegen-rechtsextremismus.de
 0.0.0.0 allmyninjasnazis.com
@@ -407,10 +369,6 @@
 0.0.0.0 anfybio.bebidasfornaziero.com.br
 0.0.0.0 angelinaziran.com
 0.0.0.0 angelsupremacygames.com
-<<<<<<< HEAD
-0.0.0.0 angolabusinessdaily.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 animenazis.com
 0.0.0.0 aniturnakliyat.comwww.scientologynews.org
 0.0.0.0 ankaranazillinakliyat.online
@@ -468,10 +426,6 @@
 0.0.0.0 annazipper-amsterdam.nl
 0.0.0.0 annazitko.cz
 0.0.0.0 annazixun.top
-<<<<<<< HEAD
-0.0.0.0 annearundeltoday.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 anniceschelpjesendesign.nl.nazicht.nl
 0.0.0.0 annicesschelpjesendesign.nl.nazicht.nl
 0.0.0.0 annoyingsupremacy.today
@@ -988,11 +942,6 @@
 0.0.0.0 backup.nsm88.org
 0.0.0.0 backup1.projectcamelotportal.com
 0.0.0.0 backups.heartland.org
-<<<<<<< HEAD
-0.0.0.0 badcriminals.com
-0.0.0.0 baddoctors.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 bagniinternazionale.com
 0.0.0.0 bainazixun.com
 0.0.0.0 bajecnazima.cz
@@ -1016,11 +965,6 @@
 0.0.0.0 baobab.naturalnews.com
 0.0.0.0 bar-internazionale.de
 0.0.0.0 bar-mitzvah-nati-ashkenazi.com
-<<<<<<< HEAD
-0.0.0.0 barackobama.news
-0.0.0.0 baragaguide.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 baralbergonazionale.com
 0.0.0.0 barbara-naziri.hpage.de
 0.0.0.0 barbara-naziri.npage.de
@@ -1034,10 +978,6 @@
 0.0.0.0 basaknazik.com
 0.0.0.0 bat.nazildesfernandes.net.br
 0.0.0.0 battle-supremacy.softonic.pl
-<<<<<<< HEAD
-0.0.0.0 battlecreektimes.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 battleforsupremacy.net
 0.0.0.0 bau-da-annazinha.blogger.com.br
 0.0.0.0 baufinazierung.chek24.de
@@ -1069,10 +1009,6 @@
 0.0.0.0 beepollen.naturalnews.com
 0.0.0.0 beetjuicepowder.naturalnews.com
 0.0.0.0 beetpowder.naturalnews.com
-<<<<<<< HEAD
-0.0.0.0 beforeitsnews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 beforeracism.com
 0.0.0.0 beggsguide.com
 0.0.0.0 beginnerscookingrecipes.benazirskitchen.co.uk
@@ -1175,10 +1111,6 @@
 0.0.0.0 bioscarf.naturalnews.com
 0.0.0.0 biostructuredsilver.naturalnews.com
 0.0.0.0 biosupremacy.com
-<<<<<<< HEAD
-0.0.0.0 biotech.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 biotin.naturalnews.com
 0.0.0.0 biskupske-gymnazium.cz
 0.0.0.0 biskupskegymnazium.cz
@@ -1295,10 +1227,6 @@
 0.0.0.0 briannazichettella.com
 0.0.0.0 brighteonconversations.naturalnews.com
 0.0.0.0 brilliant-supremacy.ru
-<<<<<<< HEAD
-0.0.0.0 bristolreporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 broccolisprout.naturalnews.com
 0.0.0.0 brownsupremacy.com
 0.0.0.0 brunazibetti.rzib.com.br
@@ -1354,10 +1282,6 @@
 0.0.0.0 caffenazionalestresa.com
 0.0.0.0 cafnazionale.com
 0.0.0.0 cageracism.my.id
-<<<<<<< HEAD
-0.0.0.0 caintv.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 cajovnazizkov.cz
 0.0.0.0 calaverasguide.com
 0.0.0.0 calendar.nazicht.nl
@@ -1384,13 +1308,6 @@
 0.0.0.0 canaziaid.ca
 0.0.0.0 canazizoglu.de
 0.0.0.0 cancelracism.com
-<<<<<<< HEAD
-0.0.0.0 cancermyths.com
-0.0.0.0 cancerscams.com
-0.0.0.0 cancersolutions.news
-0.0.0.0 cancertumors.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 cancerwisdom.net
 0.0.0.0 cannazill-nl.nl
 0.0.0.0 cannazill.de
@@ -1564,15 +1481,7 @@
 0.0.0.0 cleanchlorella.naturalnews.com
 0.0.0.0 cleaner.supremacysolutions.uk
 0.0.0.0 cleanerconcentrate.naturalnews.com
-<<<<<<< HEAD
-0.0.0.0 cleanfoodwatch.com
 0.0.0.0 cleaninazipcommercialcleaning.com
-0.0.0.0 cleanwater.news
-0.0.0.0 clermonttimes.com
-0.0.0.0 clevelandreporter.com
-=======
-0.0.0.0 cleaninazipcommercialcleaning.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 click.dranazirascaffi.com.br
 0.0.0.0 client-autodiscover.niggermania.co
 0.0.0.0 climateconference.heartland.org
@@ -1658,13 +1567,7 @@
 0.0.0.0 conazierto.9technologycorreo1.es
 0.0.0.0 concentratedmineraldrops.naturalnews.com
 0.0.0.0 conceptbenazir.nl
-<<<<<<< HEAD
-0.0.0.0 conchovalleynews.com
 0.0.0.0 concordagainstantisemitism.org
-0.0.0.0 concordledger.com
-=======
-0.0.0.0 concordagainstantisemitism.org
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 confederazioneliberazionenazionale.blogspot.co.at
 0.0.0.0 conferenzanazionalesullafamiglia.it
 0.0.0.0 confession-supremacy.ru
@@ -1752,10 +1655,6 @@
 0.0.0.0 correo.unitedpatriotsofamerica.com
 0.0.0.0 corsicanazione.forumpro.fr
 0.0.0.0 corsodifinanzainternazionale-unimoscow.com
-<<<<<<< HEAD
-0.0.0.0 cortezwatch.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 cortinazimoveis.mobapp.at
 0.0.0.0 coscienzanazionale.it
 0.0.0.0 coscienzanazionale.org
@@ -2232,13 +2131,7 @@
 0.0.0.0 cristinazimmer.com
 0.0.0.0 cristinazimmermann.com
 0.0.0.0 crm.dehan-schinazi.fr
-<<<<<<< HEAD
-0.0.0.0 cronicadeportiva.com
 0.0.0.0 cronycapitalismisfascism.com
-0.0.0.0 cropprotectionnews.com
-=======
-0.0.0.0 cronycapitalismisfascism.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 crowd.kreis-goeppingen-nazifrei.de
 0.0.0.0 crs.nsm88.org
 0.0.0.0 crushfascism.com
@@ -2337,11 +2230,6 @@
 0.0.0.0 dehan-schinazi.fr
 0.0.0.0 deine-stimme-gegen-nazis.de
 0.0.0.0 dejpracismysl.cz
-<<<<<<< HEAD
-0.0.0.0 dekalbganews.com
-0.0.0.0 dekalbtimes.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 delawarecoguide.com
 0.0.0.0 delftcityshuttle.nl.nazicht.nl
 0.0.0.0 delight-supremacy.ru
@@ -2487,10 +2375,6 @@
 0.0.0.0 dianaziotas.shop
 0.0.0.0 dice-nazis.baubleholy.org.uk
 0.0.0.0 dice-nazis.sagesmall.org.uk
-<<<<<<< HEAD
-0.0.0.0 digestion.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 diginazish.site
 0.0.0.0 digitalmarketingsupremacy.com
 0.0.0.0 digitalsupremacy.co.uk
@@ -2511,10 +2395,6 @@
 0.0.0.0 dirtyspics.wordpress.com
 0.0.0.0 discogimnazija.radio.at
 0.0.0.0 discord.qanonanonymous.com
-<<<<<<< HEAD
-0.0.0.0 discoveries.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 discovernazilli.com
 0.0.0.0 dishwasherdetergent.naturalnews.com
 0.0.0.0 diskriminazia.de
@@ -2552,10 +2432,6 @@
 0.0.0.0 docteur-schinazi.onetab.fr
 0.0.0.0 docteurasquinazi.fr
 0.0.0.0 doctornazirahmad.com
-<<<<<<< HEAD
-0.0.0.0 doctorphillipstoday.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 dog-supremacy.fr
 0.0.0.0 dokudamithailand.comwww.iasmembership.org
 0.0.0.0 dokudamithailand.comwww.scientologynews.org
@@ -2655,11 +2531,6 @@
 0.0.0.0 duhovkagymnazium.cz
 0.0.0.0 duikinazie.punt.nl
 0.0.0.0 dunkerknazivo.cz
-<<<<<<< HEAD
-0.0.0.0 dupagepolicyjournal.com
-0.0.0.0 durhamreporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 dusenazivu.cz
 0.0.0.0 dutch.rtc.org
 0.0.0.0 dutchantisemitism.nl
@@ -2691,16 +2562,6 @@
 0.0.0.0 ebooks-politik-zeitgeschichte-extremismus.gleich-lesen.de
 0.0.0.0 eccellenzesanitarieinternazionali.com
 0.0.0.0 ecenazi.top
-<<<<<<< HEAD
-0.0.0.0 ecgeorgianews.com
-0.0.0.0 ecindiananews.com
-0.0.0.0 eciowanews.com
-0.0.0.0 eckansasnews.com
-0.0.0.0 ecmissnews.com
-0.0.0.0 ecnebraskanews.com
-0.0.0.0 ecnorthcarolinanews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 eco-fascisme.nl
 0.0.0.0 ecoaurabynazish.com
 0.0.0.0 edicolainternazionale.blogspot.de
@@ -2793,27 +2654,13 @@
 0.0.0.0 embracism.us
 0.0.0.0 emdefesadohspm.celsogiannazi.com.br
 0.0.0.0 emergencysupplies.naturalnews.com
-<<<<<<< HEAD
-0.0.0.0 emf.news
-0.0.0.0 emp.news
 0.0.0.0 empathyendsracism.com
-0.0.0.0 empireherald.com
-0.0.0.0 empirenews.com
-0.0.0.0 empirenews.net
-0.0.0.0 empirestatetoday.com
-=======
-0.0.0.0 empathyendsracism.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 en.katharinazink.de
 0.0.0.0 en.nsm88.org
 0.0.0.0 enabledantiracism.com
 0.0.0.0 enazindirim.com
 0.0.0.0 enazio.jusbrasil.com.br
 0.0.0.0 enazixi.top
-<<<<<<< HEAD
-0.0.0.0 enchantmentstatenews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 end-antisemitism.com
 0.0.0.0 end-antisemitism.org
 0.0.0.0 endantisemitismfund.com
@@ -2887,10 +2734,6 @@
 0.0.0.0 eskinazipty.com
 0.0.0.0 espacioslibresderacismo.es
 0.0.0.0 esquenazi.us
-<<<<<<< HEAD
-0.0.0.0 essentialoils.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 estateinternazionaledelfolklore.com
 0.0.0.0 estimation-supremacy.ru
 0.0.0.0 etesvousantisemite.fr
@@ -2916,10 +2759,6 @@
 0.0.0.0 events.iasmembership.org
 0.0.0.0 events.scientology.org
 0.0.0.0 evergreenfinazia.com
-<<<<<<< HEAD
-0.0.0.0 evergreenreporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 everyday-antiracism.com
 0.0.0.0 everyday.antisemitism.uk
 0.0.0.0 everydayantisemitism.uk
@@ -2983,10 +2822,6 @@
 0.0.0.0 extremismwatch.com
 0.0.0.0 extremismwatch.org
 0.0.0.0 eyanazihan.shop
-<<<<<<< HEAD
-0.0.0.0 eyehealth.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 eyemanaziz.com
 0.0.0.0 eyeonantisemitism.co.uk
 0.0.0.0 eyeonantisemitism.com
@@ -3016,10 +2851,6 @@
 0.0.0.0 faqaboutgod.net.lindelltv.com
 0.0.0.0 farahnazispahani.blog
 0.0.0.0 fardadandnazilla.co.uk
-<<<<<<< HEAD
-0.0.0.0 fargostandard.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 farhannazir.shop
 0.0.0.0 farmacia-internazionale.com
 0.0.0.0 farmacia-internazionale.de
@@ -3070,21 +2901,12 @@
 0.0.0.0 fashionazing.net
 0.0.0.0 fashionvsfascism.com
 0.0.0.0 fashionvsfascism.org
-<<<<<<< HEAD
-0.0.0.0 fasting.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 fathersagainstfascism.com
 0.0.0.0 fathersagainstfascism.org
 0.0.0.0 fathersdayevent.naturalnews.com
 0.0.0.0 fathersfightingfascism.com
 0.0.0.0 fatimanazir.com
 0.0.0.0 faujdarracisms.cyou
-<<<<<<< HEAD
-0.0.0.0 fayettevillestandard.com
-0.0.0.0 fayettevilletoday.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 fb-hatespeech.com
 0.0.0.0 fc-internazionale-original.beepworld.de
 0.0.0.0 fc-internazionale.jouwportaal.nl
@@ -3213,24 +3035,10 @@
 0.0.0.0 fondazioneterzopilastrointernazionale.es
 0.0.0.0 fondonazionaleinnovazione.com
 0.0.0.0 fondonazionalemarittimi.com
-<<<<<<< HEAD
-0.0.0.0 fondulacnews.com
 0.0.0.0 fonojulianazingalli.com.br
 0.0.0.0 fontanazivota.cz
-0.0.0.0 foodcollapse.com
-0.0.0.0 foodevolution.news
-=======
-0.0.0.0 fonojulianazingalli.com.br
-0.0.0.0 fontanazivota.cz
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 foodforensics.naturalnews.com
 0.0.0.0 foodnazi.org
-<<<<<<< HEAD
-0.0.0.0 foodscience.news
-0.0.0.0 foodstorage.news
-0.0.0.0 foodsupply.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 footballnazi.com
 0.0.0.0 footballvhomophobia.co.uk
 0.0.0.0 forestsoverfascism.com
@@ -3248,10 +3056,6 @@
 0.0.0.0 fornazin-climatisation-hourtin.fr
 0.0.0.0 fornazin.fr
 0.0.0.0 fornazinconsultoria.com.br
-<<<<<<< HEAD
-0.0.0.0 fortsmithtimes.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 fortunazilla.com
 0.0.0.0 fortunazingara.co.uk
 0.0.0.0 forum-cpanel.niggermania.co
@@ -3365,11 +3169,6 @@
 0.0.0.0 fuckwhitesupremacy.com
 0.0.0.0 fuer-brandenburg-ohne-neonazis.de
 0.0.0.0 fuhrerious88blog.wordpress.com
-<<<<<<< HEAD
-0.0.0.0 fukushima.news
-0.0.0.0 fukushimawatch.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 fun-supremacy.ru
 0.0.0.0 funazi.saurce.org.uk
 0.0.0.0 funazimuth.com
@@ -3395,10 +3194,6 @@
 0.0.0.0 galvaguide.com
 0.0.0.0 games-cpcalendars.niggermania.co
 0.0.0.0 gangsterfascism.com
-<<<<<<< HEAD
-0.0.0.0 gangstergovernment.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 ganyusupremacy.ru
 0.0.0.0 garage-nazifi.ch
 0.0.0.0 gardenharvestblend.naturalnews.com
@@ -3515,13 +3310,7 @@
 0.0.0.0 gjimnazihydajetlezha.com
 0.0.0.0 gjimnazipartizani.com
 0.0.0.0 gjimnaziqemalstafa.net
-<<<<<<< HEAD
-0.0.0.0 glaciercountrynews.com
 0.0.0.0 glamoursupremacy.com
-0.0.0.0 glendalesun.com
-=======
-0.0.0.0 glamoursupremacy.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 glenelderguide.com
 0.0.0.0 global-autodiscover.niggermania.co
 0.0.0.0 globalafrakansupremacy.com
@@ -3545,12 +3334,6 @@
 0.0.0.0 goodnightwhitepride.myblog.de
 0.0.0.0 goslar-gegen-rechtsextremismus.de
 0.0.0.0 gotnazi.com
-<<<<<<< HEAD
-0.0.0.0 gotnews.com
-0.0.0.0 govtslaves.com
-0.0.0.0 govtslaves.info
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 gpnazia.com
 0.0.0.0 graficaeskenazi.com.br
 0.0.0.0 graficaonline.lojagraficaeskenazi.com.br
@@ -3572,11 +3355,6 @@
 0.0.0.0 grazynazieba.e-meteor.pl
 0.0.0.0 grazynazielant.netgaleria.pl
 0.0.0.0 great-supremacy.ru
-<<<<<<< HEAD
-0.0.0.0 greatertexan.com
-0.0.0.0 greatlakeswire.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 greek.rtc.org
 0.0.0.0 greek.theology.scientology.org
 0.0.0.0 greenantifascism.blogspot.ca
@@ -3602,10 +3380,6 @@
 0.0.0.0 guest.catharinaziekenhuis.nl
 0.0.0.0 guinazintercoms.co.uk
 0.0.0.0 gulbinazizoglubahceci.online
-<<<<<<< HEAD
-0.0.0.0 gulfnewsjournal.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 gulnazi.com
 0.0.0.0 gulnazira.ru
 0.0.0.0 guthriecountyguide.com
@@ -3748,10 +3522,6 @@
 0.0.0.0 happynewyear.naturalnews.com
 0.0.0.0 haroonazia.com
 0.0.0.0 haroonazizmyagency.com
-<<<<<<< HEAD
-0.0.0.0 hartfordreporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 harvardagainstfascism.com
 0.0.0.0 hasanaziz.co.uk
 0.0.0.0 hasannazir.com
@@ -4001,38 +3771,19 @@
 0.0.0.0 hotelnazionale.info
 0.0.0.0 hotelnazionalesanremo.it
 0.0.0.0 hotgirlshatefascism.com
-<<<<<<< HEAD
-0.0.0.0 hotspringstimes.com
-0.0.0.0 houmathibodauxnews.com
-0.0.0.0 housatonicvalleynews.com
-0.0.0.0 houstonrepublic.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 hovalot-ashkenazi.co.il
 0.0.0.0 hovalot-ashkenazi.com
 0.0.0.0 howtofightantisemitism.us
 0.0.0.0 hranazivot.cz
-<<<<<<< HEAD
-0.0.0.0 hrdailywire.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 hrnazi.thal.uk
 0.0.0.0 hsb.nazicht.nl
 0.0.0.0 http.nsm88.org
 0.0.0.0 huaitoei.go.thwww.scientologynews.org
 0.0.0.0 hucose-nazihu.sbs
-<<<<<<< HEAD
-0.0.0.0 hudsontoday.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 huenaziza.shop
 0.0.0.0 humansarefree.com
 0.0.0.0 humansupremacyinstitute.com
 0.0.0.0 humansupremacyinstitute.org
-<<<<<<< HEAD
-0.0.0.0 humboldtreview.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 hungarian.rtc.org
 0.0.0.0 hungarian.theology.scientology.org
 0.0.0.0 huromslowjuicers.naturalnews.com
@@ -4045,10 +3796,6 @@
 0.0.0.0 hydrogeninfusionwater.naturalnews.com
 0.0.0.0 iasmembership.org
 0.0.0.0 ibrahimnazir.site
-<<<<<<< HEAD
-0.0.0.0 ibxnews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 icenazis.com
 0.0.0.0 ichbinjakeinnaziaber.de
 0.0.0.0 icpcalendars.niggermania.co
@@ -4194,10 +3941,6 @@
 0.0.0.0 inseminazionevitro.com
 0.0.0.0 instantcoffee.naturalnews.com
 0.0.0.0 institutionalracism.net
-<<<<<<< HEAD
-0.0.0.0 insuranceratereporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 intanazizan.com
 0.0.0.0 integratorinternazionali.com
 0.0.0.0 internal-autodiscover.niggermania.co
@@ -4244,10 +3987,6 @@
 0.0.0.0 intrendtoday.com
 0.0.0.0 investigacionsobreracismo.manueltoledo.es
 0.0.0.0 investireinaziende.it
-<<<<<<< HEAD
-0.0.0.0 investmentwatchblog.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 inwestycjenazielono.pl
 0.0.0.0 iodine.naturalnews.com
 0.0.0.0 iowaregionalguide.com
@@ -4269,13 +4008,7 @@
 0.0.0.0 irinazikofsky.de
 0.0.0.0 irinazimmermann.de
 0.0.0.0 irinazinner.de
-<<<<<<< HEAD
-0.0.0.0 irishufology.net
 0.0.0.0 irolloilluminazione.com
-0.0.0.0 ironictimes.com
-=======
-0.0.0.0 irolloilluminazione.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 irynazinenko.shop
 0.0.0.0 iselonanazi.com
 0.0.0.0 isitfascismyet.com
@@ -4395,13 +4128,6 @@
 0.0.0.0 jazykovegymnazium.cz
 0.0.0.0 jednaziemia.pl
 0.0.0.0 jeffaceleracisme.fr
-<<<<<<< HEAD
-0.0.0.0 jeffbezoswatch.com
-0.0.0.0 jeffcitynews.com
-0.0.0.0 jeffcotimes.com
-0.0.0.0 jeffersonreporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 jelenazivlak.com
 0.0.0.0 jenazimmer.de
 0.0.0.0 jenkinsautodiscover.niggermania.co
@@ -4439,12 +4165,6 @@
 0.0.0.0 john-eskenazi.zebuzebu.co.uk
 0.0.0.0 johnaziagraybooks.com
 0.0.0.0 johnaziagraypresents.com
-<<<<<<< HEAD
-0.0.0.0 johnsoncitytimes.com
-0.0.0.0 johnstonreporter.com
-0.0.0.0 johnstontimes.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 joilmckenazi.xyz
 0.0.0.0 join.nsm88.org
 0.0.0.0 jointhealth.naturalnews.com
@@ -4473,10 +4193,6 @@
 0.0.0.0 junecpcontacts.niggermania.co
 0.0.0.0 juquenazi.com
 0.0.0.0 justracism.fun
-<<<<<<< HEAD
-0.0.0.0 justtrumpit.us
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 justynazienkiewicz.pl
 0.0.0.0 juventmicroimpactplatform.naturalnews.com
 0.0.0.0 k-cpcalendars.niggermania.co
@@ -4571,12 +4287,6 @@
 0.0.0.0 kenzabenaziza.fr
 0.0.0.0 kesefnazil.co.il
 0.0.0.0 keyfiatbinazir.shop
-<<<<<<< HEAD
-0.0.0.0 keystonebusinessnews.com
-0.0.0.0 keystonetoday.com
-0.0.0.0 keywestreporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 khersongimmnazia16.com
 0.0.0.0 khersongimnazia16.com
 0.0.0.0 kick.racism.at
@@ -4589,11 +4299,6 @@
 0.0.0.0 killnazis.com
 0.0.0.0 kinaziengineeringconsultants.com
 0.0.0.0 kindernestwaldsee.dewww.iasmembership.org
-<<<<<<< HEAD
-0.0.0.0 kingscountytimes.com
-0.0.0.0 kingsportreporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 kingsupremacy.store
 0.0.0.0 kingworldnews.com
 0.0.0.0 kirche-gegen-rechtsextremismus.de
@@ -4686,10 +4391,6 @@
 0.0.0.0 kukluxklanruhrgebiet.blogspot.de
 0.0.0.0 kulturanazivo.cz
 0.0.0.0 kunazi.com
-<<<<<<< HEAD
-0.0.0.0 kupr7.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 kuriokenko.netwww.scientologynews.org
 0.0.0.0 kurs.justynazienkiewicz.pl
 0.0.0.0 kvetinazivota.cz
@@ -4710,17 +4411,6 @@
 0.0.0.0 lagunazivota.cz
 0.0.0.0 laharpeguide.com
 0.0.0.0 laibanazir.site
-<<<<<<< HEAD
-0.0.0.0 lakebuenavistanews.com
-0.0.0.0 lakebutlernews.com
-0.0.0.0 lakecountygazette.com
-0.0.0.0 lakecountytimes.com
-0.0.0.0 lakehartnews.com
-0.0.0.0 lakenonatoday.com
-0.0.0.0 lakeregionnews.com
-0.0.0.0 laketahoesun.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 laminazintro.com
 0.0.0.0 lan-webdisk.niggermania.co
 0.0.0.0 lanazia.fr
@@ -4732,16 +4422,7 @@
 0.0.0.0 landentuinbouw.spinazieacademie.nl
 0.0.0.0 langendreer-gegen-nazis.de
 0.0.0.0 langendreer-werne-gegen-nazis.de
-<<<<<<< HEAD
-0.0.0.0 lansingreporter.com
-0.0.0.0 lansingsun.com
 0.0.0.0 lapostaprivatanazionale.com
-0.0.0.0 laredotimes.com
-0.0.0.0 larimernews.com
-0.0.0.0 larouchepub.com
-=======
-0.0.0.0 lapostaprivatanazionale.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 larutadelasratasnazis.blogspot.com.br
 0.0.0.0 larutadelasratasnazis.blogspot.com.es
 0.0.0.0 laryngologkielce-magdalenaziolkowska.pl
@@ -4881,10 +4562,6 @@
 0.0.0.0 lotonazilonalt.com
 0.0.0.0 lotonazilonalts.com
 0.0.0.0 lotonazionale.com
-<<<<<<< HEAD
-0.0.0.0 louisianarecord.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 louisianazinefest.com
 0.0.0.0 lovemusic-hateracism.de
 0.0.0.0 lovemusichatefascism.de
@@ -5579,11 +5256,6 @@
 0.0.0.0 manelnazih-allianzgestionprivee.com
 0.0.0.0 mangosteen.naturalnews.com
 0.0.0.0 manifatturanazionalepezzoli.it
-<<<<<<< HEAD
-0.0.0.0 manilabusinessdaily.com
-0.0.0.0 mansfieldtimes.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 mantapbossupremacy.com
 0.0.0.0 manukahoney.naturalnews.com
 0.0.0.0 map.flatearthers.org
@@ -5669,10 +5341,6 @@
 0.0.0.0 mctoilpowder.naturalnews.com
 0.0.0.0 mdnazim.com
 0.0.0.0 mdnazim.xyz
-<<<<<<< HEAD
-0.0.0.0 mdstatewire.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 mdvinternazionale.com
 0.0.0.0 media-staging.infowars.com
 0.0.0.0 media.infowars.com
@@ -5721,16 +5389,7 @@
 0.0.0.0 metinaziret.ljhooker.com.au
 0.0.0.0 metinaziret.toview.com.au
 0.0.0.0 metinaziz34.xyz
-<<<<<<< HEAD
-0.0.0.0 metricmedianews.com
-0.0.0.0 metrobusinessnetwork.com
-0.0.0.0 metroeastsun.com
 0.0.0.0 metropolitnigymnazium.cz
-0.0.0.0 metrowesttimes.com
-0.0.0.0 mexicobusinessdaily.com
-=======
-0.0.0.0 metropolitnigymnazium.cz
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 mezinarodnigymnazium.cz
 0.0.0.0 mezoonenazi.com
 0.0.0.0 mezoonenazi.shop
@@ -5796,11 +5455,6 @@
 0.0.0.0 mlsnazirafa.cz
 0.0.0.0 mmcw.org
 0.0.0.0 mnazirova.ru
-<<<<<<< HEAD
-0.0.0.0 mnbusinessdaily.com
-0.0.0.0 mncatholictribune.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 moapavalleyguide.com
 0.0.0.0 mobile.anazi.co.za
 0.0.0.0 mobile.infowars.com
@@ -5815,11 +5469,6 @@
 0.0.0.0 mogadishunazivo.cz
 0.0.0.0 mohammadnazimuddin.com
 0.0.0.0 mohammednazimk.com
-<<<<<<< HEAD
-0.0.0.0 mohavetoday.com
-0.0.0.0 mohawkvalleytimes.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 mohdnazim.com
 0.0.0.0 mohsanaziz.fr
 0.0.0.0 moje-beznaziejne-zycie.blogi.pl
@@ -6059,12 +5708,6 @@
 0.0.0.0 nanazi.com
 0.0.0.0 nanazina.w.interia.pl
 0.0.0.0 nanazipin.top
-<<<<<<< HEAD
-0.0.0.0 nanotechnology.news
-0.0.0.0 nantahalanews.com
-0.0.0.0 naplesstandard.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 naraminazika.blogspot.com.br
 0.0.0.0 narwanazielenina.pl
 0.0.0.0 nasalspray.naturalnews.com
@@ -7147,11 +6790,6 @@
 0.0.0.0 ncsnazia-com-my.net
 0.0.0.0 necekejnazitrek.cz
 0.0.0.0 nednazit.nl
-<<<<<<< HEAD
-0.0.0.0 nefloridanews.com
-0.0.0.0 nefranklinnews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 neginazin.com
 0.0.0.0 nehalemguide.com
 0.0.0.0 nehoda-autobusu-nazidla.cz
@@ -7167,11 +6805,6 @@
 0.0.0.0 neonazismus.de
 0.0.0.0 neonazisoftheus.us
 0.0.0.0 neonazistassassinomauriziobarbero.blogspot.co.uk
-<<<<<<< HEAD
-0.0.0.0 nepanhandlenews.com
-0.0.0.0 nepiedmontnews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 neredesinfiruze69rima87farshad90nazi78ani.site
 0.0.0.0 neriilluminazione.com
 0.0.0.0 nerv.8kun.top
@@ -7311,79 +6944,9 @@
 0.0.0.0 norsespellstobindfascism.art
 0.0.0.0 northamerica-autodiscover.niggermania.co
 0.0.0.0 northeastagainstracism.co.uk
-<<<<<<< HEAD
-0.0.0.0 northegyptnews.com
-0.0.0.0 northernazit.net
-0.0.0.0 northernnecktimes.com
-0.0.0.0 northerntiernews.com
-0.0.0.0 northessexnews.com
-0.0.0.0 northfairfaxnews.com
-0.0.0.0 northfultontoday.com
-0.0.0.0 northguilfordnews.com
-0.0.0.0 northgwinnettnews.com
-0.0.0.0 northhamptonnews.com
-0.0.0.0 northhennepinnews.com
-0.0.0.0 northhoustonnews.com
-0.0.0.0 northidahotimes.com
-0.0.0.0 northindynews.com
-0.0.0.0 northinlandnews.com
-0.0.0.0 northiowareporter.com
-0.0.0.0 northiredellnews.com
-0.0.0.0 northjeffconews.com
-0.0.0.0 northkentnews.com
-0.0.0.0 northkentuckynews.com
-0.0.0.0 northkingnews.com
-0.0.0.0 northknoxnews.com
-0.0.0.0 northlaketimes.com
-0.0.0.0 northlancasternews.com
-0.0.0.0 northlittlerocktimes.com
-0.0.0.0 northmecklenburgnews.com
-0.0.0.0 northmianews.com
-0.0.0.0 northmichigannews.com
-0.0.0.0 northmiddlesextimes.com
-0.0.0.0 northnevadanews.com
-0.0.0.0 northnewcastlenews.com
-0.0.0.0 northoctimes.com
-0.0.0.0 northokcnews.com
-0.0.0.0 northomahatimes.com
-0.0.0.0 northorlandonews.com
-0.0.0.0 northpalmbeachtoday.com
-0.0.0.0 northpanhandlenews.com
-0.0.0.0 northpanhandletimes.com
-0.0.0.0 northpimanews.com
-0.0.0.0 northpinellasnews.com
-0.0.0.0 northpocononews.com
-0.0.0.0 northraleightoday.com
-0.0.0.0 northramseynews.com
-0.0.0.0 northrichmondtoday.com
-0.0.0.0 northsactoday.com
-0.0.0.0 northsanantonionews.com
-0.0.0.0 northsfvtoday.com
-0.0.0.0 northsgvnews.com
-0.0.0.0 northshenandoahnews.com
-0.0.0.0 northshorelanews.com
-0.0.0.0 northsnohomishnews.com
-0.0.0.0 northstlnews.com
-0.0.0.0 northsummitnews.com
-0.0.0.0 northtexasreview.com
-0.0.0.0 northtidewaternews.com
-0.0.0.0 northtrianglenews.com
-0.0.0.0 northtulsatoday.com
-0.0.0.0 northtxnews.com
-0.0.0.0 northutahnews.com
-0.0.0.0 northvegastimes.com
-0.0.0.0 northwakenews.com
-0.0.0.0 northwichitanews.com
-0.0.0.0 northwoodsreporter.com
-0.0.0.0 norwalktimes.com
-0.0.0.0 norwegian.rtc.org
-0.0.0.0 norynaziz.com
-0.0.0.0 notallowedto.com
-=======
 0.0.0.0 northernazit.net
 0.0.0.0 norwegian.rtc.org
 0.0.0.0 norynaziz.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 noten.gimnazija.de
 0.0.0.0 notfornazis.fun
 0.0.0.0 notizieinternazionali.com
@@ -7577,10 +7140,6 @@
 0.0.0.0 ordnungmachtextremismus.de
 0.0.0.0 orel-gimnazia34.ru
 0.0.0.0 organazist.com
-<<<<<<< HEAD
-0.0.0.0 organharvesting.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 organicacaipowder.naturalnews.com
 0.0.0.0 organicalmonds.naturalnews.com
 0.0.0.0 organicaloeveraextract.naturalnews.com
@@ -7731,14 +7290,7 @@
 0.0.0.0 paleopekarnazimovi.cz
 0.0.0.0 palpatine.tfes.org
 0.0.0.0 pambondiisanaziclown.com
-<<<<<<< HEAD
-0.0.0.0 pamelageller.com
-0.0.0.0 panamacityreporter.com
 0.0.0.0 panaziya.ru
-0.0.0.0 pandemic.news
-=======
-0.0.0.0 panaziya.ru
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 pandemic.warroom.org
 0.0.0.0 panel.supremacy-rp.fr
 0.0.0.0 paniniinternazionale.se
@@ -7766,10 +7318,6 @@
 0.0.0.0 partitonazionalcomunistaitaliano.blogspot.de
 0.0.0.0 partners.jadeegg.com
 0.0.0.0 parvinazizineurology.com
-<<<<<<< HEAD
-0.0.0.0 pascoreporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 pasiekadolinazielawy.pl
 0.0.0.0 pass-cpanel.niggermania.co
 0.0.0.0 patentnazielen.pl
@@ -7798,13 +7346,7 @@
 0.0.0.0 pcpcontacts.niggermania.co
 0.0.0.0 pcsupremacy.co.uk
 0.0.0.0 pctv.projectcamelotportal.com
-<<<<<<< HEAD
-0.0.0.0 peacegardennews.com
 0.0.0.0 peacenazim.com
-0.0.0.0 peachtreetimes.com
-=======
-0.0.0.0 peacenazim.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 pedagogianazi4b.blogspot.com.es
 0.0.0.0 pederastanazistefanobassi-gbluff.blogspot.co.uk
 0.0.0.0 pedgymnazium.cz
@@ -7815,18 +7357,8 @@
 0.0.0.0 pedofilonazistassassinopaolobarrai.blogspot.co.uk
 0.0.0.0 pedofilopadanazistassassino-pbarrai.blogspot.co.uk
 0.0.0.0 pedramtannazi.blogspot.se
-<<<<<<< HEAD
-0.0.0.0 peedeenews.com
-0.0.0.0 pefnazi.top
-0.0.0.0 pelicanstatenews.com
-0.0.0.0 penguinsagainstfascism.com
-0.0.0.0 pennrecord.com
-0.0.0.0 pensacolatimes.com
-0.0.0.0 pensions.news
-=======
 0.0.0.0 pefnazi.top
 0.0.0.0 penguinsagainstfascism.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 peopleagainstracism.net
 0.0.0.0 peopleagainstracism.uk
 0.0.0.0 perks0fbeingnazia.blogspot.co.uk
@@ -7847,10 +7379,6 @@
 0.0.0.0 phgymnazium.cz
 0.0.0.0 phibetaiota.net
 0.0.0.0 philippoinazi.chemie.uni-mainz.de
-<<<<<<< HEAD
-0.0.0.0 phillyleader.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 phonazia.com
 0.0.0.0 phpautodiscover.niggermania.co
 0.0.0.0 phpmyadmin.armstrongeconomics.com
@@ -7909,10 +7437,6 @@
 0.0.0.0 pody.bebidasfornaziero.com.br
 0.0.0.0 pointemout.comwww.scientologynews.org
 0.0.0.0 pojisteninazivot.cz
-<<<<<<< HEAD
-0.0.0.0 pokalambroguide.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 pokernazivo.cz
 0.0.0.0 pokojenazielonej.nocujmy.pl
 0.0.0.0 poland-cpcalendars.niggermania.co
@@ -8014,12 +7538,6 @@
 0.0.0.0 preprod.aecilluminazione.fr
 0.0.0.0 preprod.restaurantlenazionale.fr
 0.0.0.0 preseelettricheilluminazione.com
-<<<<<<< HEAD
-0.0.0.0 president45donaldtrump.com
-0.0.0.0 pressfortruth.ca
-0.0.0.0 presstv.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 presupremacy.ascii.uk
 0.0.0.0 presupremacy.com
 0.0.0.0 prevent-and-reverse-heart-disease.naturalnews.com
@@ -8352,11 +7870,6 @@
 0.0.0.0 renata-bindi-fornazieri.pages.net.br
 0.0.0.0 renazi.com
 0.0.0.0 reneedignazio.shop
-<<<<<<< HEAD
-0.0.0.0 renoreporter.com
-0.0.0.0 rense.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 rentrus.naziris.co.uk
 0.0.0.0 repo-cpanel.niggermania.co
 0.0.0.0 report-antisemitism.de
@@ -8446,14 +7959,7 @@
 0.0.0.0 rnazipcode.cs.mcgill.ca
 0.0.0.0 roads-to-refuge.com.au.racismnoway.com.au
 0.0.0.0 robonazi.com
-<<<<<<< HEAD
-0.0.0.0 robotics.news
-0.0.0.0 robots.news
 0.0.0.0 rochelleashkenazi.online
-0.0.0.0 rochesterreporter.com
-=======
-0.0.0.0 rochelleashkenazi.online
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 rockagainstfascism.com
 0.0.0.0 rockagainstfascism.net
 0.0.0.0 rockagainstfascism.org
@@ -8475,10 +7981,6 @@
 0.0.0.0 role.no-racism.de
 0.0.0.0 rollerhockeyaubagne.comwww.scientologynews.org
 0.0.0.0 romanaziaka.cz
-<<<<<<< HEAD
-0.0.0.0 romereporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 ronazi-hegome.sbs
 0.0.0.0 ronazi.com
 0.0.0.0 ronazi.store
@@ -8506,10 +8008,6 @@
 0.0.0.0 roszpunka-krainazielonychsalatek.pl
 0.0.0.0 rotary.royalincproperties.comwww.scientologynews.org
 0.0.0.0 rougenail.netwww.scientologynews.org
-<<<<<<< HEAD
-0.0.0.0 rowannews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 roxipunazitameli.shop
 0.0.0.0 roycenazir.com
 0.0.0.0 rozkosznazielarnia.pl
@@ -8526,18 +8024,10 @@
 0.0.0.0 ruchyashkenazi.shop
 0.0.0.0 ruckracism.com
 0.0.0.0 ruheenaziz.com
-<<<<<<< HEAD
-0.0.0.0 rumormillnews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 runazia.com
 0.0.0.0 runazing.de
 0.0.0.0 ruskiy-genazid-i-fashizm.blogspot.de
 0.0.0.0 rusmanazis.com
-<<<<<<< HEAD
-0.0.0.0 russia-insider.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 russian.rtc.org
 0.0.0.0 russian.theology.scientology.org
 0.0.0.0 rutacontralracismu.blogspot.co.uk
@@ -8571,10 +8061,6 @@
 0.0.0.0 sakersomarvarreannazister.se
 0.0.0.0 salastampanazionalemilano.com
 0.0.0.0 sale-car-parts.illuminazione2000.com.pl
-<<<<<<< HEAD
-0.0.0.0 salemnewswire.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 salmanaziz.com
 0.0.0.0 salmartingano.com
 0.0.0.0 saloneinternazionaledellolio.com
@@ -8583,24 +8069,12 @@
 0.0.0.0 samibmakinazirvesi.com
 0.0.0.0 samordnarenmotextremism.se
 0.0.0.0 samtalskompassen.samordnarenmotextremism.se
-<<<<<<< HEAD
-0.0.0.0 samuel-warde.com
-0.0.0.0 sana.sy
-0.0.0.0 sanantoniostandard.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 sanazia.com
 0.0.0.0 sanazia.cz
 0.0.0.0 sanazia.sk
 0.0.0.0 sanazinteriors.com
 0.0.0.0 sanazir.com
 0.0.0.0 sancenazivot.cz
-<<<<<<< HEAD
-0.0.0.0 sandhillstoday.com
-0.0.0.0 sandiegorecord.com
-0.0.0.0 sandovalnews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 sandro-nazireu.musicas.mus.br
 0.0.0.0 sandroferronevianazionaleroma.com
 0.0.0.0 sandvikabil.nowww.scientologynews.org
@@ -8614,11 +8088,6 @@
 0.0.0.0 sarahnazir.com
 0.0.0.0 saranazim.co.uk
 0.0.0.0 saranazimofficial.uk
-<<<<<<< HEAD
-0.0.0.0 sarasotareview.com
-0.0.0.0 saratogastandard.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 sarinnazis.com
 0.0.0.0 sarwatnazirmartslimited.site
 0.0.0.0 sassybysharminaziz.com
@@ -8663,14 +8132,6 @@
 0.0.0.0 scoalagimnazialastefanciobotarasu.ro
 0.0.0.0 scontinazionali.com
 0.0.0.0 scotlandagainstantisemitism.org
-<<<<<<< HEAD
-0.0.0.0 scpanews.com
-0.0.0.0 scrantonreporter.com
-0.0.0.0 scrapetv.com
-0.0.0.0 sctennnews.com
-0.0.0.0 sctexasnews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 sculptedsupremacy.info
 0.0.0.0 scuolainternazionaledicoachingperbambini.com
 0.0.0.0 se.scientology.org
@@ -8679,11 +8140,6 @@
 0.0.0.0 search-webmail.niggermania.co
 0.0.0.0 search.siegeculture.biz
 0.0.0.0 seasalt.naturalnews.com
-<<<<<<< HEAD
-0.0.0.0 seatlantanews.com
-0.0.0.0 seattlecitywire.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 sebeobrananazivo.cz
 0.0.0.0 sebeobranazizkov.cz
 0.0.0.0 secretnazimoonbase.blogspot.ca
@@ -8739,15 +8195,7 @@
 0.0.0.0 senrenazingdeesewa.ru
 0.0.0.0 sensacyjnazima.peugeot.pl
 0.0.0.0 sensorysupremacy.com
-<<<<<<< HEAD
-0.0.0.0 sentinelblog.com
 0.0.0.0 senzaunadestinazione.blogspot.de
-0.0.0.0 seoaklandnews.com
-0.0.0.0 seohiotimes.com
-0.0.0.0 seoklahomanews.com
-=======
-0.0.0.0 senzaunadestinazione.blogspot.de
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 seosupremacy.agency
 0.0.0.0 seowithnazim.com
 0.0.0.0 sept-www.niggermania.co
@@ -8775,16 +8223,7 @@
 0.0.0.0 sestiletegymnazium.cz
 0.0.0.0 settorenazionale.com
 0.0.0.0 setuyakuonnazibunde.com
-<<<<<<< HEAD
-0.0.0.0 setwincities.com
-0.0.0.0 sevalleytimes.com
-0.0.0.0 sevegasnews.com
 0.0.0.0 sevenazizcio.xyz
-0.0.0.0 sewashingtonnews.com
-0.0.0.0 sewyomingnews.com
-=======
-0.0.0.0 sevenazizcio.xyz
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 sexnazi.com
 0.0.0.0 sexnazivo.cz
 0.0.0.0 sextremism.com
@@ -8820,14 +8259,6 @@
 0.0.0.0 sheikhnazimhelpinghands.co.uk
 0.0.0.0 sheikhnazimsuficentre.co.uk
 0.0.0.0 sheikhnazimuddin.com
-<<<<<<< HEAD
-0.0.0.0 shelbycountytimes.com
-0.0.0.0 shelbyreporter.com
-0.0.0.0 shelbyreview.com
-0.0.0.0 shenandoahvalleynews.com
-0.0.0.0 shenangovalleynews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 sheownsupremacy.com
 0.0.0.0 shesquill.co.inwww.scientologynews.org
 0.0.0.0 shibuya-craft-club.orgwww.scientologynews.org
@@ -8840,11 +8271,6 @@
 0.0.0.0 shitacome.jpwww.scientologynews.org
 0.0.0.0 shnazie.com
 0.0.0.0 shnazie.store
-<<<<<<< HEAD
-0.0.0.0 shoalstoday.com
-0.0.0.0 shoebat.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 shonan-studio.comwww.iasmembership.org
 0.0.0.0 shop.100percentfedup.com
 0.0.0.0 shop.americanfreepress.net
@@ -8873,17 +8299,9 @@
 0.0.0.0 silksupremacy.agency
 0.0.0.0 silksupremacy.com
 0.0.0.0 silluminazioni.com
-<<<<<<< HEAD
-0.0.0.0 silnews.com
 0.0.0.0 silverbreathspray.naturalnews.com
 0.0.0.0 silverfreshdeodorant.naturalnews.com
 0.0.0.0 silversafe.naturalnews.com
-0.0.0.0 silverstatetimes.com
-=======
-0.0.0.0 silverbreathspray.naturalnews.com
-0.0.0.0 silverfreshdeodorant.naturalnews.com
-0.0.0.0 silversafe.naturalnews.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 simiagainstracism.com
 0.0.0.0 simiagainstracism.org
 0.0.0.0 simitteknesinazilli.com
@@ -8913,10 +8331,6 @@
 0.0.0.0 sky-gamblers-air-supremacy.softonic.com.br
 0.0.0.0 sl.infowars.com
 0.0.0.0 slevarnazinku.cz
-<<<<<<< HEAD
-0.0.0.0 sloreporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 slovakbezpenazi.sk
 0.0.0.0 slowracism.com
 0.0.0.0 slowracism.info
@@ -8926,10 +8340,6 @@
 0.0.0.0 sm-projects.nazipasi.co.za
 0.0.0.0 sm-srv01.nvic.org
 0.0.0.0 smallcapsupremacy.com
-<<<<<<< HEAD
-0.0.0.0 smartmeters.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 smartracism.xyz
 0.0.0.0 smashhomophobia.blogsport.de
 0.0.0.0 smhwtfnews.com
@@ -9023,11 +8433,6 @@
 0.0.0.0 soldier.fr.supremacy.xooit.fr
 0.0.0.0 soledilluminazione.com
 0.0.0.0 solesupremacy-us.shop
-<<<<<<< HEAD
-0.0.0.0 somersettimes.com
-0.0.0.0 somicom.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 sonderbynazia.com
 0.0.0.0 sonrisechurchofthevalley.comwww.scientologynews.org
 0.0.0.0 soolenazir.biz
@@ -9049,36 +8454,9 @@
 0.0.0.0 sosracismonafarroa.es
 0.0.0.0 soundcloud.qanonanonymous.com
 0.0.0.0 southportagainstracism.co.uk
-<<<<<<< HEAD
-0.0.0.0 southraleighnews.com
-0.0.0.0 southsactoday.com
-0.0.0.0 southsanantonionews.com
-0.0.0.0 southsfbaynews.com
-0.0.0.0 southsfvtoday.com
-0.0.0.0 southsgvnews.com
-0.0.0.0 southsidevanews.com
-0.0.0.0 southsnohomishnews.com
-0.0.0.0 southsoundtimes.com
-0.0.0.0 southstlnews.com
-0.0.0.0 southsummitnews.com
-0.0.0.0 southtidewaternews.com
-0.0.0.0 southtrianglenews.com
-0.0.0.0 southtulsatoday.com
-0.0.0.0 southutahnews.com
-0.0.0.0 southvermontnews.com
-0.0.0.0 southwichitanews.com
-0.0.0.0 southwinstonsalemnews.com
 0.0.0.0 sovlinazik.info
-0.0.0.0 sowisconsintimes.com
-=======
-0.0.0.0 sovlinazik.info
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 soziale-netzwerke-gegen-nazis.de
 0.0.0.0 spaceracism.online
-<<<<<<< HEAD
-0.0.0.0 spacetourism.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 spagnoloinazione.com
 0.0.0.0 spam.iasmembership.org
 0.0.0.0 spam.thepeoplesvoice.org
@@ -9314,18 +8692,10 @@
 0.0.0.0 successioniinternazionali.com
 0.0.0.0 sucuriip.stateofthenation.co
 0.0.0.0 suedstdtentnazifizieren.blogsport.de
-<<<<<<< HEAD
-0.0.0.0 suffolkreporter.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 sufiyanaziz.com
 0.0.0.0 suikerenazijn.com
 0.0.0.0 sumbulnazir.com
 0.0.0.0 summerspecials.naturalnews.com
-<<<<<<< HEAD
-0.0.0.0 sumtertimes.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 sunazii.pro
 0.0.0.0 suncoastproudboys.com
 0.0.0.0 sundayservice.scientology.org
@@ -9554,10 +8924,6 @@
 0.0.0.0 syednazil.in
 0.0.0.0 sylvieskinazi.fr
 0.0.0.0 synaziaqaab.pro
-<<<<<<< HEAD
-0.0.0.0 syracusesun.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 sys.8kun.top
 0.0.0.0 sys003.scientology.org
 0.0.0.0 syslog.nsm88.org
@@ -9586,10 +8952,6 @@
 0.0.0.0 talkingaboutextremisminschools.wp.st-andrews.ac.uk
 0.0.0.0 talkracism.com
 0.0.0.0 tamaguide.com
-<<<<<<< HEAD
-0.0.0.0 tamparepublic.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 tanazieciys.pro
 0.0.0.0 tanazinstyle.com
 0.0.0.0 tanazip.cz
@@ -9669,30 +9031,16 @@
 0.0.0.0 the-supremacy.com
 0.0.0.0 theamericanfreedomparty.us
 0.0.0.0 theamericanindependent.wordpress.com
-<<<<<<< HEAD
-0.0.0.0 theamericanrevenant.com
-0.0.0.0 theantimedia.org
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 theantisemitismawarenessproject.org
 0.0.0.0 thearabianaziz.com
 0.0.0.0 theatreagainstantisemitism.com
 0.0.0.0 thebigvirushoax.com
-<<<<<<< HEAD
-0.0.0.0 theblacksphere.net
-0.0.0.0 thebostontribune.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 thecatsupremacy.com
 0.0.0.0 thechouraeshkenazigroup.net
 0.0.0.0 thecrimeofracism.com
 0.0.0.0 thecureforracism.org
 0.0.0.0 theducksupremacy2.xooit.fr
 0.0.0.0 theeraserislamophobia.co.uk
-<<<<<<< HEAD
-0.0.0.0 thefederalistpapers.org
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 thefeminazi.com
 0.0.0.0 theflatearthsociety.org
 0.0.0.0 theforgottennazi.com
@@ -9701,10 +9049,6 @@
 0.0.0.0 thefrt.com
 0.0.0.0 thegoodnewsaboutracism.net
 0.0.0.0 thegrammarnazi.net
-<<<<<<< HEAD
-0.0.0.0 theineptowl.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 theirvincorp.comwww.scientologynews.org
 0.0.0.0 thelawnsupremacy.xyz
 0.0.0.0 thelightinthedarkplace.wordpress.com
@@ -9719,17 +9063,8 @@
 0.0.0.0 thenazirgroup.co.uk
 0.0.0.0 thenazirgroup.net
 0.0.0.0 thenazism.com
-<<<<<<< HEAD
-0.0.0.0 theneighborhoodguardian.com
 0.0.0.0 thenewabnormal513330780.wordpress.com
 0.0.0.0 thenewhomecompany-nazis.com
-0.0.0.0 thenewinquiry.com
-0.0.0.0 thenewsdoctors.com
-0.0.0.0 thenochill.com
-=======
-0.0.0.0 thenewabnormal513330780.wordpress.com
-0.0.0.0 thenewhomecompany-nazis.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 theology.scientology.org
 0.0.0.0 theonlygoodnazi.com
 0.0.0.0 thepapranazi.blogspot.de
@@ -9741,26 +9076,9 @@
 0.0.0.0 theracismsurvivalguide.com
 0.0.0.0 therapywithnaziakhan.co.uk
 0.0.0.0 therapywithnaziakhan.com
-<<<<<<< HEAD
-0.0.0.0 therealstrategy.com
-0.0.0.0 therecordinc.com
-0.0.0.0 theregionnews.com
-0.0.0.0 thereporterz.com
-0.0.0.0 therightists.com
 0.0.0.0 therisingcostoffascism.com
 0.0.0.0 thermalsupremacy.com
 0.0.0.0 thermalsupremacy.tech
-0.0.0.0 therundownlive.com
-0.0.0.0 thesaker.is
-0.0.0.0 thesconi.com
-0.0.0.0 theskunk.org
-0.0.0.0 thespiritscience.net
-0.0.0.0 thestatelyharold.com
-=======
-0.0.0.0 therisingcostoffascism.com
-0.0.0.0 thermalsupremacy.com
-0.0.0.0 thermalsupremacy.tech
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 thesupremacyclan.xippy.co.uk
 0.0.0.0 thesupremacygroup.bustech.co.za
 0.0.0.0 thetimesoftheworld.com
@@ -9797,10 +9115,6 @@
 0.0.0.0 tmzworldstarnews.com
 0.0.0.0 tnazicyf.shop
 0.0.0.0 tnazirov.ru
-<<<<<<< HEAD
-0.0.0.0 tnbusinessdaily.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 tnszionistracism.com
 0.0.0.0 tnszionistracism.net
 0.0.0.0 tnszionistracism.org
@@ -9824,10 +9138,6 @@
 0.0.0.0 tornei-internazionali.info
 0.0.0.0 torneiinternazionali.info
 0.0.0.0 torneinternazionali.info
-<<<<<<< HEAD
-0.0.0.0 torontobusinessdaily.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 totalworldnews.com
 0.0.0.0 toulouse.sos-racisme.fr
 0.0.0.0 tozusa-sonazi.sbs
@@ -9846,12 +9156,6 @@
 0.0.0.0 traslochinazionalixx.aceblog.fr
 0.0.0.0 trasporti-internazionali.click
 0.0.0.0 trasportointernazionalejf.aceblog.fr
-<<<<<<< HEAD
-0.0.0.0 treason.news
-0.0.0.0 treasurecoastsun.com
-0.0.0.0 treasurevalleytimes.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 treatmentforracism.com
 0.0.0.0 treatmentforracism.org
 0.0.0.0 triciawarwick-naziriscelebrant.co.nz
@@ -9861,11 +9165,6 @@
 0.0.0.0 truefascism.co.uk
 0.0.0.0 truffatorenazifascistafedericoizzi.blogspot.co.uk
 0.0.0.0 trulvenazik.click
-<<<<<<< HEAD
-0.0.0.0 trumballnews.com
-0.0.0.0 trump.news
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 trumpisnotanazi.com
 0.0.0.0 trumpnazis.com
 0.0.0.0 trumpsfascism.com
@@ -9875,11 +9174,6 @@
 0.0.0.0 tudosobreracismo.blogspot.com.br
 0.0.0.0 tuftsunitedagainstantisemitism.com
 0.0.0.0 tugrinzoovanazitx.info
-<<<<<<< HEAD
-0.0.0.0 tularetimes.com
-0.0.0.0 tulsastandard.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 tunazii9.pro
 0.0.0.0 tunezjamojemiejscenaziemi.pila.pl
 0.0.0.0 turkialanazi.com
@@ -9952,14 +9246,7 @@
 0.0.0.0 ur-fascism.blogspot.ca
 0.0.0.0 ur-fascism.blogspot.co.uk
 0.0.0.0 ur-fascism.blogspot.se
-<<<<<<< HEAD
-0.0.0.0 urbandaletimes.com
-0.0.0.0 urbanreform.org
 0.0.0.0 urbansupremacy.com
-0.0.0.0 us.blastingnews.com
-=======
-0.0.0.0 urbansupremacy.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 usaaroundtheworldnews.com
 0.0.0.0 usfascism.us
 0.0.0.0 usmanaziz.com
@@ -10072,10 +9359,6 @@
 0.0.0.0 vrenazicl.click
 0.0.0.0 vs.nazis.myblog.de
 0.0.0.0 vsenazimu.cz
-<<<<<<< HEAD
-0.0.0.0 vtbusinessdaily.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 vybavsanazimu.sk
 0.0.0.0 vymenazipu.cz
 0.0.0.0 vynazi.org
@@ -10089,16 +9372,8 @@
 0.0.0.0 waronracism.blogspot.de
 0.0.0.0 warrenazimmermanlaw.com
 0.0.0.0 warrenazimmermanlawfl.com
-<<<<<<< HEAD
-0.0.0.0 warrenclintonnews.com
-0.0.0.0 warrencountynews.com
 0.0.0.0 warrenmcshane.rtc.org
 0.0.0.0 warrenmonazite.com
-0.0.0.0 warrensun.com
-=======
-0.0.0.0 warrenmcshane.rtc.org
-0.0.0.0 warrenmonazite.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 warroom.org
 0.0.0.0 warwickantiracism.org
 0.0.0.0 washingtoncoguide.com
@@ -10480,13 +9755,6 @@
 0.0.0.0 wendepunkte-extremismus.de
 0.0.0.0 wennazi.com
 0.0.0.0 werenazi.xyz
-<<<<<<< HEAD
-0.0.0.0 weshapelife.org
-0.0.0.0 westarapahoenews.com
-0.0.0.0 westatlantanews.com
-0.0.0.0 westbanklanews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 westbuero.dewww.scientologynews.org
 0.0.0.0 westdesmoinesguide.com
 0.0.0.0 wettbewerb-atomwaffenfrei.de
@@ -10499,13 +9767,7 @@
 0.0.0.0 wheatberries.naturalnews.com
 0.0.0.0 wheatgrass.naturalnews.com
 0.0.0.0 wheyprotein.naturalnews.com
-<<<<<<< HEAD
-0.0.0.0 whitehouse.news
 0.0.0.0 whitepagesupremacy.com
-0.0.0.0 whitepower.com
-=======
-0.0.0.0 whitepagesupremacy.com
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 whitepride.de
 0.0.0.0 whitepride.us
 0.0.0.0 whiteprideclothingline.com
@@ -10537,10 +9799,6 @@
 0.0.0.0 wiki.tfes.org
 0.0.0.0 wikingerkult-und-rechtsextremismus.de
 0.0.0.0 wikiofracism.com
-<<<<<<< HEAD
-0.0.0.0 wikispooks.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 wilhelm-genazino.de
 0.0.0.0 wilsonguide.com
 0.0.0.0 winenazi.us
@@ -12243,10 +11501,6 @@
 0.0.0.0 yasinazize4321.xyz
 0.0.0.0 yasmeennazir.com
 0.0.0.0 yasminaziyat.art
-<<<<<<< HEAD
-0.0.0.0 yavapainews.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 yayasanazizah.com
 0.0.0.0 yeetsupremacy.xyz
 0.0.0.0 yegagainstracism.com
@@ -12255,20 +11509,10 @@
 0.0.0.0 yes.infowars.com
 0.0.0.0 yigitapartnazilli.com
 0.0.0.0 ynazit.com
-<<<<<<< HEAD
-0.0.0.0 yogurt.news
-0.0.0.0 yorkconews.com
-0.0.0.0 youngstowntimes.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 yourbrainonantisemitism.com
 0.0.0.0 yourdigitalsupremacy.com
 0.0.0.0 youtube.qanonanonymous.com
 0.0.0.0 youtubergegennazis.de
-<<<<<<< HEAD
-0.0.0.0 yubasuttertimes.com
-=======
->>>>>>> 84bf66d (updated lists)
 0.0.0.0 yunazia.com
 0.0.0.0 yunazimmermann.de
 0.0.0.0 yxmnbnazibf.icu
