@@ -1,8 +1,8 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2025-12-12 16:43:45 UTC
-# entries: 11598
-# additions: 11598
+# last updated on 2026-01-01 00:18:39 UTC
+# entries: 11600
+# additions: 2
 # removals: 0
 #
 0.0.0.0 05racismo.blogspot.cl
@@ -51,6 +51,7 @@
 0.0.0.0 5penazi.cz
 0.0.0.0 6-cpcontacts.niggermania.co
 0.0.0.0 69school-gymnaziya.edu.kz
+0.0.0.0 6penazi.sk
 0.0.0.0 7-cpcontacts.niggermania.co
 0.0.0.0 70news.wordpress.com
 0.0.0.0 75ansliberationcampsnazis.fr
@@ -3395,6 +3396,7 @@
 0.0.0.0 gymnazio.co.uk
 0.0.0.0 gymnazion.pl
 0.0.0.0 gymnazista.cz
+0.0.0.0 gymnazium-amazon.cz
 0.0.0.0 gymnazium-brno.cz
 0.0.0.0 gymnazium-ck.cz
 0.0.0.0 gymnazium-domazlice.cz
