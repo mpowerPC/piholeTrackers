@@ -1,9 +1,9 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2026-01-01 00:18:39 UTC
-# entries: 11600
-# additions: 2
-# removals: 0
+# last updated on 2026-04-20 16:49:32 UTC
+# entries: 11611
+# additions: 13
+# removals: 2
 #
 0.0.0.0 05racismo.blogspot.cl
 0.0.0.0 05racismo.blogspot.com.es
@@ -680,6 +680,8 @@
 0.0.0.0 art.iasmembership.org
 0.0.0.0 artes-da-annazinha.blogger.com.br
 0.0.0.0 artinazinc.fr
+0.0.0.0 artistermotfascism.nu
+0.0.0.0 artistermotfascism.se
 0.0.0.0 artistsagainstfascism.online
 0.0.0.0 artlucbylucianazibordi.blogspot.com.br
 0.0.0.0 artofnazism.blogspot.com.es
@@ -2396,6 +2398,7 @@
 0.0.0.0 dirtyspics.wordpress.com
 0.0.0.0 discogimnazija.radio.at
 0.0.0.0 discord.qanonanonymous.com
+0.0.0.0 discoveries.news
 0.0.0.0 discovernazilli.com
 0.0.0.0 dishwasherdetergent.naturalnews.com
 0.0.0.0 diskriminazia.de
@@ -3777,6 +3780,7 @@
 0.0.0.0 hovalot-ashkenazi.com
 0.0.0.0 howtofightantisemitism.us
 0.0.0.0 hranazivot.cz
+0.0.0.0 hrdynazilinu.sk
 0.0.0.0 hrnazi.thal.uk
 0.0.0.0 hsb.nazicht.nl
 0.0.0.0 http.nsm88.org
@@ -6084,7 +6088,6 @@
 0.0.0.0 nazijdates.com
 0.0.0.0 nazijewassassins.com
 0.0.0.0 nazijmv.cn
-0.0.0.0 nazik.cfd
 0.0.0.0 nazik.jouwpagina.nl
 0.0.0.0 nazik.nl
 0.0.0.0 nazik.online
@@ -6433,6 +6436,7 @@
 0.0.0.0 nazionelombarda.org
 0.0.0.0 nazionenapulitana.org
 0.0.0.0 nazionerom.blogspot.fr
+0.0.0.0 nazionesportivait.com
 0.0.0.0 nazionestudio.com
 0.0.0.0 nazioneveneta-gov.org
 0.0.0.0 nazioneveneta.org
@@ -6715,6 +6719,7 @@
 0.0.0.0 nazistopping.de
 0.0.0.0 nazistowskiots.tnb.pl
 0.0.0.0 nazistpartiet.se
+0.0.0.0 nazistpyssling.se
 0.0.0.0 nazisunplugged.blogsport.de
 0.0.0.0 naziswegmoben.blogsport.de
 0.0.0.0 naziswegschunkeln.blogsport.de
@@ -6811,6 +6816,7 @@
 0.0.0.0 neriilluminazione.com
 0.0.0.0 nerv.8kun.top
 0.0.0.0 nerwicanatrectwpieklonaziemi.blog.pl
+0.0.0.0 neslusnazilina.sk
 0.0.0.0 net-webmail.niggermania.co
 0.0.0.0 net.lindelltv.com
 0.0.0.0 net.quantumsupremacy.se
@@ -6849,6 +6855,7 @@
 0.0.0.0 newsletter.isitwetyet.com
 0.0.0.0 newsmutiny.com
 0.0.0.0 newsnow17.com
+0.0.0.0 newstarget.com
 0.0.0.0 newswatch28.com
 0.0.0.0 nextcloud.ignazi.fr
 0.0.0.0 ng-naziri-gebaeudereinigung.de
@@ -7045,6 +7052,7 @@
 0.0.0.0 nwordmaniastatus.blogspot.com
 0.0.0.0 o-mail.niggermania.co
 0.0.0.0 oantisemitismouniversal.blogspot.com.br
+0.0.0.0 obchodikbezpenazi.sk
 0.0.0.0 obeid-alanazi.com
 0.0.0.0 obeysupremacy.com
 0.0.0.0 obeysupremacy.org
@@ -7820,6 +7828,7 @@
 0.0.0.0 rdirtvhnazinesstf.com
 0.0.0.0 realitynazivo.cz
 0.0.0.0 realnegymnazium.cz
+0.0.0.0 realnytradingnazivo.sk
 0.0.0.0 realvideo.naturalnews.com
 0.0.0.0 rebrandnazi.com
 0.0.0.0 rechtschreibnazi.de
@@ -8339,6 +8348,7 @@
 0.0.0.0 slowracism.net
 0.0.0.0 slowracism.store
 0.0.0.0 slowracism.xyz
+0.0.0.0 slusnazilina.sk
 0.0.0.0 sm-projects.nazipasi.co.za
 0.0.0.0 sm-srv01.nvic.org
 0.0.0.0 smallcapsupremacy.com
@@ -8945,6 +8955,7 @@
 0.0.0.0 taiwanese.training.scientology.org
 0.0.0.0 taize2017.grammatik-nazi.de
 0.0.0.0 tajmanazil.com
+0.0.0.0 tajomstvopenazi.sk
 0.0.0.0 takanazion.com
 0.0.0.0 taksinazilli.com
 0.0.0.0 takwinazil.com
@@ -9074,7 +9085,6 @@
 0.0.0.0 theqanonhub.weebly.com
 0.0.0.0 theqanons.com
 0.0.0.0 theqpatriothub.weebly.com
-0.0.0.0 theracismreport.org
 0.0.0.0 theracismsurvivalguide.com
 0.0.0.0 therapywithnaziakhan.co.uk
 0.0.0.0 therapywithnaziakhan.com
@@ -9249,6 +9259,7 @@
 0.0.0.0 ur-fascism.blogspot.co.uk
 0.0.0.0 ur-fascism.blogspot.se
 0.0.0.0 urbansupremacy.com
+0.0.0.0 urbarknazia.sk
 0.0.0.0 usaaroundtheworldnews.com
 0.0.0.0 usfascism.us
 0.0.0.0 usmanaziz.com
