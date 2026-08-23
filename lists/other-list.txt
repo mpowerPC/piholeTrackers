@@ -1,8 +1,8 @@
 # Blocklist for other hosts
 # ----
-# last updated on 2026-04-20 16:49:32 UTC
-# entries: 11611
-# additions: 13
+# last updated on 2026-08-23 01:34:56 UTC
+# entries: 11614
+# additions: 5
 # removals: 2
 #
 0.0.0.0 05racismo.blogspot.cl
@@ -2398,7 +2398,6 @@
 0.0.0.0 dirtyspics.wordpress.com
 0.0.0.0 discogimnazija.radio.at
 0.0.0.0 discord.qanonanonymous.com
-0.0.0.0 discoveries.news
 0.0.0.0 discovernazilli.com
 0.0.0.0 dishwasherdetergent.naturalnews.com
 0.0.0.0 diskriminazia.de
@@ -4219,6 +4218,7 @@
 0.0.0.0 kanazir.fr
 0.0.0.0 kapsalonazin.nl
 0.0.0.0 karachaevsk-gimnaziya4.ru
+0.0.0.0 karachan.org
 0.0.0.0 karakayaotomotivnazilli.com
 0.0.0.0 karategaryualcoy.eswww.scientologynews.org
 0.0.0.0 karensagainstfascism.org
@@ -5853,6 +5853,7 @@
 0.0.0.0 naziaufmarschwunsiedelsmashen.blogsport.de
 0.0.0.0 naziavansancoaching.co.uk
 0.0.0.0 naziavhj.pics
+0.0.0.0 naziawasif.com.au
 0.0.0.0 naziazakia.com
 0.0.0.0 nazib-eadin.com
 0.0.0.0 naziba.com
@@ -7702,7 +7703,6 @@
 0.0.0.0 racism.wales
 0.0.0.0 racism.wevertiverns.org.uk
 0.0.0.0 racism2020.us
-0.0.0.0 racismadvancecombination.com
 0.0.0.0 racismagent.xyz
 0.0.0.0 racismagents.xyz
 0.0.0.0 racismagi.xyz
@@ -9059,6 +9059,7 @@
 0.0.0.0 theforgottennazi.com
 0.0.0.0 thefreedomarticles.com
 0.0.0.0 thefreepatriot.org
+0.0.0.0 thefreethoughtproject.com
 0.0.0.0 thefrt.com
 0.0.0.0 thegoodnewsaboutracism.net
 0.0.0.0 thegrammarnazi.net
@@ -9392,6 +9393,7 @@
 0.0.0.0 washingtoncoguide.com
 0.0.0.0 watch.siegeculture.biz
 0.0.0.0 waterfilters.naturalnews.com
+0.0.0.0 waterfordwhispersnews.com
 0.0.0.0 wattsupwiththat.com
 0.0.0.0 wd.nsm88.org
 0.0.0.0 wdev.nvic.org
@@ -10541,6 +10543,7 @@
 0.0.0.0 www.justynazienkiewicz.pl
 0.0.0.0 www.kaczynski.nazista.patrz.pl
 0.0.0.0 www.kanazir.fr
+0.0.0.0 www.karachan.org
 0.0.0.0 www.karinaziaja-fryzjer.pl
 0.0.0.0 www.karinazimmer.co.uk
 0.0.0.0 www.karolinazielinska.pl
